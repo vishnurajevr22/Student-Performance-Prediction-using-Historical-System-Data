@@ -1,0 +1,1201 @@
+student_id,age,attendance_pct,study_hours_week,practice_tests,sleep_hours,quiz_avg,parent_education,final_score,grade_category,pass_fail
+1,18,91,11.8,4,7.6,71.1,Master,43.4,Fail,Fail
+2,17,86,14.5,4,7.2,75,None,37.3,Fail,Fail
+3,18,91,12.4,9,6.1,72.5,High School,90.9,A,Pass
+4,19,95,13.2,6,6.6,75.6,Master,49.6,Fail,Fail
+5,17,90,19,7,7,78.3,Bachelor,41.2,Fail,Fail
+6,17,90,18,4,5.9,86.7,High School,89,B,Pass
+7,19,83,10.1,4,6.6,77.4,Master,41.5,Fail,Fail
+8,18,83,16.5,7,7.7,67.3,Bachelor,30.4,Fail,Fail
+9,17,76,16.4,3,8.3,89.1,Bachelor,40.2,Fail,Fail
+10,18,100,10.6,5,6.9,73.3,Bachelor,26.3,Fail,Fail
+11,17,78,16.5,6,7.8,79.5,Bachelor,46,Fail,Fail
+12,17,83,18.6,6,5.7,83.6,Bachelor,78.7,B,Pass
+13,18,83,10.6,5,7.7,81.6,Bachelor,78.7,B,Pass
+14,16,99,11.2,6,6.6,88.8,High School,78.7,B,Pass
+15,16,87,17.1,7,7.4,83.8,None,78.7,B,Pass
+16,17,100,14.8,7,7,73.1,Bachelor,78.7,B,Pass
+17,17,83,15.7,4,8.3,97.4,Master,46.7,Fail,Fail
+18,18,93,15,5,6.5,81.6,Bachelor,46.8,Fail,Fail
+19,17,82,15.2,7,7.7,78.8,Bachelor,44.8,Fail,Fail
+20,16,100,10,7,7,87.7,Bachelor,43.3,Fail,Fail
+21,19,78,17.1,3,7.1,82,Bachelor,28.2,Fail,Fail
+22,17,93,17.5,6,7.1,83.2,Bachelor,62.5,C,Pass
+23,18,96,13.3,3,6.5,98,Bachelor,60.1,C,Pass
+24,16,94,13.9,6,7.2,77.8,Bachelor,44.1,Fail,Fail
+25,17,88,9.4,8,7.1,77.5,High School,33.3,Fail,Fail
+26,18,89,15.5,4,7.4,80.9,Bachelor,39.5,Fail,Fail
+27,17,90,15.7,4,7.3,88.6,High School,40,Fail,Fail
+28,18,89,13.8,7,7.8,67.9,High School,43.4,Fail,Fail
+29,17,100,17.4,3,7.9,64.3,None,35,Fail,Fail
+30,17,100,13,5,6.4,75.3,Bachelor,32.4,Fail,Fail
+31,17,84,15.7,6,7.9,66.9,Bachelor,30.7,Fail,Fail
+32,19,76,10.9,5,6.3,76.6,Bachelor,45.6,Fail,Fail
+33,17,89,13.9,5,7.7,84,None,52.9,Fail,Fail
+34,17,100,13.5,7,7.7,72.9,Bachelor,47.7,Fail,Fail
+35,18,82,14.7,6,5.7,68.6,Master,39.7,Fail,Fail
+36,17,100,12.9,6,7.3,80.6,Bachelor,38.6,Fail,Fail
+37,18,100,13.6,5,6.8,86.9,None,20.5,Fail,Fail
+38,16,84,16.5,6,6.6,66.4,Master,35.8,Fail,Fail
+39,16,96,12.7,5,8.3,86.6,Master,43,Fail,Fail
+40,18,100,9.2,6,6.7,86.5,High School,43.8,Fail,Fail
+41,18,86,19.2,5,6.6,87.6,High School,43.8,Fail,Fail
+42,18,88,18.1,5,7.3,89.7,High School,35.1,Fail,Fail
+43,17,84,10.1,4,7.7,97.6,High School,51.3,Fail,Fail
+44,17,80,16.1,5,7.1,77.2,Master,42.9,Fail,Fail
+45,16,84,12.5,4,8.1,80.9,High School,44.9,Fail,Fail
+46,17,78,14.8,4,7.6,76.7,High School,44.7,Fail,Fail
+47,17,90,14.9,6,5.5,80,High School,44,Fail,Fail
+48,18,82,13.3,6,6.8,92.3,High School,42.3,Fail,Fail
+49,18,92,11.6,7,6.8,69.2,High School,34.5,Fail,Fail
+50,16,74,11.9,5,7.6,73.1,Master,36.9,Fail,Fail
+51,18,93,11.3,6,5.1,91,Bachelor,45.3,Fail,Fail
+52,17,98,11.5,6,9.2,88.2,High School,50.8,Fail,Fail
+53,17,70,13.8,6,7.6,77.1,Bachelor,42.6,Fail,Fail
+54,18,94,11.9,4,7.3,86.8,Bachelor,57.4,Fail,Fail
+55,18,100,16,6,8.1,82.7,High School,57,Fail,Fail
+56,18,78,18.5,6,9.1,92,Bachelor,46,Fail,Fail
+57,17,100,12.3,6,7.9,80.6,Master,13.5,Fail,Fail
+58,17,94,14.7,2,8,88.2,Master,52.3,Fail,Fail
+59,18,83,15.5,6,7.3,98,Master,44.1,Fail,Fail
+60,18,89,15.4,9,7.1,84.8,High School,36.6,Fail,Fail
+61,17,96,14.2,5,6.8,80.4,None,37.4,Fail,Fail
+62,17,91,16.2,4,6.5,85.8,Master,39.4,Fail,Fail
+63,17,95,15.4,6,6.7,77.1,None,43,Fail,Fail
+64,17,81,10.3,6,6.1,98,High School,36.6,Fail,Fail
+65,18,92,16.6,7,7.1,81.4,None,33.2,Fail,Fail
+66,19,76,16.7,4,5.9,77.8,Master,40.9,Fail,Fail
+67,17,89,11.7,7,7.4,73.3,Master,41.2,Fail,Fail
+68,18,81,14.1,6,7.2,88.8,High School,48.1,Fail,Fail
+69,18,83,16,5,7.3,86.9,Master,37.4,Fail,Fail
+70,17,100,13.4,6,6.8,76,None,31.4,Fail,Fail
+71,18,100,17.2,7,9.7,84.6,Bachelor,39.1,Fail,Fail
+72,19,96,21.1,7,8.3,67.9,Bachelor,36.8,Fail,Fail
+73,17,79,11.6,4,6.2,81.5,None,50.4,Fail,Fail
+74,19,87,9.9,7,7.4,83.6,Bachelor,27,Fail,Fail
+75,15,100,14.9,5,6.7,93.7,Bachelor,44.7,Fail,Fail
+76,18,91,16.2,6,6.4,73.8,Bachelor,27.8,Fail,Fail
+77,18,100,13.3,6,6.1,69.8,None,23.8,Fail,Fail
+78,17,94,18.4,5,7.5,72.8,High School,43.7,Fail,Fail
+79,18,92,10,7,6.7,69.3,Bachelor,38.7,Fail,Fail
+80,16,87,16.1,5,8,90.7,Bachelor,47.9,Fail,Fail
+81,17,91,12.2,4,8,92.4,Master,51.9,Fail,Fail
+82,18,88,19.2,5,8.3,82.6,Bachelor,38,Fail,Fail
+83,19,97,20,6,6.5,89.8,None,41.7,Fail,Fail
+84,17,100,11.7,7,7.6,81.1,None,55.9,Fail,Fail
+85,17,82,12.4,6,7.7,79.2,High School,37.6,Fail,Fail
+86,17,77,16.6,4,6.8,77.3,Bachelor,43.5,Fail,Fail
+87,18,72,12.8,9,6.6,77.5,High School,38.4,Fail,Fail
+88,18,95,13.9,6,8.5,67.6,Bachelor,21.6,Fail,Fail
+89,17,79,14.1,7,7.4,82.1,Bachelor,26.3,Fail,Fail
+90,18,68,8.2,5,7.7,79.7,None,34.9,Fail,Fail
+91,18,94,14,6,6.5,86,Master,50,Fail,Fail
+92,18,100,11.9,7,6.2,80.7,High School,45.8,Fail,Fail
+93,17,90,12.5,7,6.7,78.7,High School,45.6,Fail,Fail
+94,17,98,18.3,7,7.1,73,Bachelor,30.3,Fail,Fail
+95,17,91,10.2,7,6.3,80.6,Bachelor,51.3,Fail,Fail
+96,16,89,16.4,5,7.2,85.9,High School,35.9,Fail,Fail
+97,18,99,13.2,5,5.8,70.9,Master,37.3,Fail,Fail
+98,18,87,13.2,6,6.3,80.7,None,39.9,Fail,Fail
+99,18,93,16.4,7,7.7,81.9,Bachelor,39.8,Fail,Fail
+100,17,93,15,5,7.7,74.3,Master,46.8,Fail,Fail
+101,16,83,15.7,7,6.9,75.3,Bachelor,32.8,Fail,Fail
+102,17,100,16.9,8,6.4,81.8,Master,31.6,Fail,Fail
+103,17,88,13,4,6.4,70.9,Bachelor,35.7,Fail,Fail
+104,17,82,12.2,4,6.9,82.8,High School,38,Fail,Fail
+105,17,95,10.7,5,7.7,72.8,None,60.3,C,Pass
+106,18,81,11.5,6,7.9,88.5,Bachelor,88.2,B,Pass
+107,19,90,22.8,5,6.8,98,Master,45.5,Fail,Fail
+108,18,90,17.7,8,6.3,73.1,Bachelor,29.6,Fail,Fail
+109,18,100,9.9,6,7.4,84.3,High School,28.7,Fail,Fail
+110,17,95,10,6,6.5,74.2,High School,30,Fail,Fail
+111,16,90,15.4,3,6.8,88.3,Bachelor,44.4,Fail,Fail
+112,17,98,15.6,4,8.3,69.9,Bachelor,45.7,Fail,Fail
+113,18,100,15.6,6,7.9,83.8,Bachelor,49.9,Fail,Fail
+114,19,96,13.2,2,7.3,73,Bachelor,38.3,Fail,Fail
+115,17,90,13.6,7,6.2,78.3,Bachelor,36.8,Fail,Fail
+116,18,77,15,5,7.4,71.8,Master,37.8,Fail,Fail
+117,17,79,14.3,10,8.1,86.6,Bachelor,39.2,Fail,Fail
+118,17,87,7.3,9,6.9,73.3,None,48.6,Fail,Fail
+119,18,84,13.3,5,8.3,84.4,Bachelor,40.4,Fail,Fail
+120,18,88,11.4,5,8.2,77.2,Bachelor,37.9,Fail,Fail
+121,18,91,14.5,7,8.5,79.1,High School,24.2,Fail,Fail
+122,17,95,23,8,7.4,81.2,Bachelor,39.7,Fail,Fail
+123,19,89,15.1,3,7.7,73.9,High School,43,Fail,Fail
+124,16,95,13.1,3,8.3,81.7,Bachelor,33.3,Fail,Fail
+125,18,91,16.8,5,7.6,92.2,High School,40.3,Fail,Fail
+126,19,70,15.4,6,6.8,73.8,Bachelor,42.2,Fail,Fail
+127,17,81,15.3,6,6.8,89.4,Master,33.6,Fail,Fail
+128,17,89,15.8,7,7.4,92,Bachelor,52.8,Fail,Fail
+129,18,78,20.2,4,6.2,73.5,High School,33.1,Fail,Fail
+130,17,96,10.6,2,7.1,68.4,High School,31.8,Fail,Fail
+131,16,100,15.4,7,8.1,82.4,Master,33.6,Fail,Fail
+132,18,100,11.2,4,5.4,75.6,High School,40.4,Fail,Fail
+133,17,88,15.7,2,8.4,94.9,Bachelor,63.8,C,Pass
+134,18,100,11.2,6,8.1,80.3,Bachelor,45.7,Fail,Fail
+135,17,91,12.7,7,6.8,73.6,Bachelor,30.9,Fail,Fail
+136,19,87,13.1,5,7.6,70.8,Bachelor,43.6,Fail,Fail
+137,17,84,16.9,5,7.2,88.7,Master,41.6,Fail,Fail
+138,17,87,16.8,5,8.2,75.4,High School,47.6,Fail,Fail
+139,18,86,10.3,5,8,80.4,High School,45.5,Fail,Fail
+140,17,92,14.2,3,6.1,87.6,High School,22.6,Fail,Fail
+141,18,92,11.9,4,7.7,76.1,High School,31,Fail,Fail
+142,19,90,10.2,6,7,79.6,High School,46.1,Fail,Fail
+143,16,94,13.3,6,7.3,79.9,Bachelor,41,Fail,Fail
+144,18,100,13.1,6,6.6,85.5,Bachelor,35.3,Fail,Fail
+145,18,99,21.3,4,8.6,84.7,Bachelor,38.2,Fail,Fail
+146,18,75,15.3,5,8,78.2,Bachelor,25.5,Fail,Fail
+147,17,64,9.9,2,6.6,80.5,Master,38.4,Fail,Fail
+148,16,99,12.3,6,6.1,77,Bachelor,54,Fail,Fail
+149,18,76,17.1,8,6.9,68.2,High School,40.1,Fail,Fail
+150,18,88,20.3,3,7.5,82.1,Bachelor,56.4,Fail,Fail
+151,18,78,9.2,5,7.4,95.1,High School,52.3,Fail,Fail
+152,18,72,8.4,6,8.2,72.9,High School,43.3,Fail,Fail
+153,17,95,19.6,7,7.8,73.8,Bachelor,51.4,Fail,Fail
+154,18,98,15.2,5,8,73,None,39.7,Fail,Fail
+155,18,84,11.4,4,7.5,85.8,Master,40.9,Fail,Fail
+156,17,64,15.6,3,6.1,83.6,High School,48,Fail,Fail
+157,19,85,6.1,6,7,78.7,Master,48.9,Fail,Fail
+158,18,94,14,9,8,72.7,Master,33.5,Fail,Fail
+159,17,75,15,6,7.2,80.7,Bachelor,34.8,Fail,Fail
+160,18,92,16.8,5,7.6,67.5,Master,35.4,Fail,Fail
+161,17,90,11,6,6.9,81.1,Bachelor,46,Fail,Fail
+162,18,96,14.3,5,6.4,87,High School,48.7,Fail,Fail
+163,18,91,11.2,4,7.1,70,Bachelor,25.2,Fail,Fail
+164,17,80,14.8,7,7.4,67.7,Bachelor,47.6,Fail,Fail
+165,18,100,11.3,6,6.7,92.6,Bachelor,41.1,Fail,Fail
+166,18,88,12.8,6,7,75.1,Bachelor,35.7,Fail,Fail
+167,18,90,11,4,6.4,89.1,None,37.4,Fail,Fail
+168,19,81,16,7,8.1,78.8,None,58.2,Fail,Fail
+169,17,86,16.6,6,7,78.7,Master,41,Fail,Fail
+170,17,81,13.3,5,8.4,83.5,Master,35.3,Fail,Fail
+171,17,88,14.1,7,8.4,72.9,None,42.9,Fail,Fail
+172,17,100,9.7,5,7.1,81.1,High School,45.8,Fail,Fail
+173,17,76,13.1,4,6.4,76.9,High School,36.6,Fail,Fail
+174,18,74,13.8,4,5.5,69.4,Bachelor,40.4,Fail,Fail
+175,18,100,21.9,3,6,82.7,Master,35.7,Fail,Fail
+176,18,88,10.7,6,6.1,77.9,Bachelor,35.2,Fail,Fail
+177,18,83,18.4,3,8.3,78.7,Master,25.3,Fail,Fail
+178,19,100,17,4,7.3,70.3,High School,26.6,Fail,Fail
+179,17,84,14.8,2,7.5,92.7,High School,58,Fail,Fail
+180,20,100,19.3,5,5.4,87,Master,54.8,Fail,Fail
+181,18,97,15.1,5,6.2,87.7,High School,43.9,Fail,Fail
+182,17,85,15.2,5,7.9,77.6,Bachelor,50.4,Fail,Fail
+183,17,100,13.8,4,7.4,66.2,High School,32.7,Fail,Fail
+184,18,84,17.7,4,7.1,95.6,Bachelor,45.2,Fail,Fail
+185,17,97,17.3,6,7.7,79.5,Master,40.5,Fail,Fail
+186,18,93,12.1,5,8.5,74,Bachelor,36.4,Fail,Fail
+187,18,100,10,6,7,83.3,Bachelor,39.9,Fail,Fail
+188,17,100,13.4,4,7.3,89.3,High School,52.2,Fail,Fail
+189,17,90,11.6,6,7.4,79.8,Master,40.8,Fail,Fail
+190,16,82,13.8,7,9.1,90.2,Bachelor,49.5,Fail,Fail
+191,17,95,17.7,6,5.5,88.7,Bachelor,51.2,Fail,Fail
+192,18,83,12.6,5,7.7,71.4,Master,38.5,Fail,Fail
+193,18,100,13.9,6,7.1,74.6,High School,30.9,Fail,Fail
+194,17,91,14.2,5,7.7,87.7,Master,33.9,Fail,Fail
+195,18,86,16.5,6,6.7,58.3,Bachelor,31.1,Fail,Fail
+196,18,92,7.3,5,7.2,78.8,Bachelor,37.8,Fail,Fail
+197,17,77,12.2,5,7.8,68.6,High School,35,Fail,Fail
+198,18,80,14.6,6,9.7,76.2,None,38.1,Fail,Fail
+199,18,100,17.6,4,7.8,77.6,Master,57.3,Fail,Fail
+200,17,83,12.5,4,6.5,77.1,High School,28.9,Fail,Fail
+201,18,80,8.4,3,6.9,75.6,Bachelor,23.3,Fail,Fail
+202,18,95,15.9,3,6.8,71.2,Master,38.3,Fail,Fail
+203,18,100,12.1,4,5.8,98,Bachelor,45.3,Fail,Fail
+204,18,97,10.4,6,6.9,94.9,Master,48.8,Fail,Fail
+205,16,100,12.1,4,7.8,70.7,Bachelor,39.9,Fail,Fail
+206,17,82,13.4,6,6.2,92.7,Master,54.3,Fail,Fail
+207,18,76,12.2,6,8,76.8,Bachelor,27.5,Fail,Fail
+208,18,100,7.4,3,7.6,81,High School,36.3,Fail,Fail
+209,18,87,16.7,6,6.6,79.5,Bachelor,42.7,Fail,Fail
+210,20,87,17.8,7,7.1,74.7,None,43,Fail,Fail
+211,18,100,16,4,8.5,87.9,Bachelor,59.2,C,Pass
+212,18,96,10.6,6,7.8,81,Bachelor,47.1,Fail,Fail
+213,18,95,13.4,4,7.2,76.2,Bachelor,37.8,Fail,Fail
+214,18,100,14,6,7,69.6,Bachelor,29.2,Fail,Fail
+215,17,84,15.8,4,7.3,72.9,Master,32.6,Fail,Fail
+216,18,99,16,3,6.8,66.9,Master,30,Fail,Fail
+217,17,91,11.8,5,5.5,80.1,High School,44.2,Fail,Fail
+218,17,93,14.2,5,8.8,70.4,None,37.6,Fail,Fail
+219,17,100,15.4,5,7.3,77.9,Master,30,Fail,Fail
+220,18,95,18.4,4,7.5,91,Master,42.1,Fail,Fail
+221,19,95,16.1,5,7.2,89.6,Bachelor,50.6,Fail,Fail
+222,16,100,16.4,6,6.6,79.7,Master,42.5,Fail,Fail
+223,18,86,14.3,5,7.1,79.3,High School,43.4,Fail,Fail
+224,16,82,18.2,6,5.9,95,Bachelor,49.2,Fail,Fail
+225,17,80,15.2,4,9,84.2,Master,53.1,Fail,Fail
+226,18,70,11.4,7,6.2,77.4,High School,39.7,Fail,Fail
+227,18,100,18.2,4,6.4,68.6,High School,32.4,Fail,Fail
+228,17,79,16.1,6,6.8,83.2,Master,34.7,Fail,Fail
+229,17,88,12.7,7,8.2,86.6,Master,44.6,Fail,Fail
+230,18,87,12.6,6,7.2,74.9,High School,20.4,Fail,Fail
+231,17,93,14.9,5,6.2,82.3,Master,39.6,Fail,Fail
+232,18,98,15.4,5,8.2,77.1,Bachelor,37.5,Fail,Fail
+233,18,99,14.6,7,7.8,78.5,Bachelor,30,Fail,Fail
+234,17,84,14.9,3,7.6,60.1,Master,24.3,Fail,Fail
+235,19,88,19.1,4,7.8,78.2,Bachelor,44.9,Fail,Fail
+236,18,93,17.2,5,9.1,87.8,High School,45.4,Fail,Fail
+237,16,88,14.6,7,8.9,74.9,High School,38.5,Fail,Fail
+238,18,100,16.8,6,6.7,80.4,Bachelor,42.6,Fail,Fail
+239,17,95,10.9,4,8.5,74,Bachelor,37.9,Fail,Fail
+240,18,97,15.2,5,7.5,82.9,Master,50.1,Fail,Fail
+241,17,97,19.4,5,7.6,78.3,Master,40.4,Fail,Fail
+242,17,100,13.3,4,5.8,72.5,Bachelor,26.3,Fail,Fail
+243,18,92,11.5,7,7.1,90.7,Master,56.1,Fail,Fail
+244,18,77,12,3,6.5,87.4,High School,45.2,Fail,Fail
+245,17,94,10.7,8,7.9,75.2,High School,33.7,Fail,Fail
+246,17,83,11.6,7,8.1,84,Master,32.8,Fail,Fail
+247,17,85,12.9,7,5.5,84.3,High School,44.3,Fail,Fail
+248,17,96,9.8,5,7.2,85.1,High School,41.3,Fail,Fail
+249,19,100,14,5,8.1,66.4,Bachelor,45.1,Fail,Fail
+250,18,90,16.7,3,7.1,88.1,Bachelor,41.1,Fail,Fail
+251,16,93,11.3,5,7.8,75.4,Master,31.9,Fail,Fail
+252,18,100,18.6,6,7.5,77.1,High School,45.4,Fail,Fail
+253,19,92,15.5,7,7.5,98,High School,54.7,Fail,Fail
+254,18,100,17.1,4,7,82.4,Bachelor,42.5,Fail,Fail
+255,16,96,12,5,6.2,76.9,Bachelor,43.1,Fail,Fail
+256,17,72,16.6,5,6.3,62.4,Bachelor,31.3,Fail,Fail
+257,19,98,10.7,3,7.8,91.1,Bachelor,46.5,Fail,Fail
+258,17,94,16.7,6,7.2,69.2,Master,43.4,Fail,Fail
+259,18,100,14.5,4,7.1,72,None,40.9,Fail,Fail
+260,18,97,15.7,5,6.9,77.3,High School,37.7,Fail,Fail
+261,17,89,10.5,5,7,91.3,Bachelor,54.2,Fail,Fail
+262,17,78,11.3,4,8,86.2,Bachelor,25.7,Fail,Fail
+263,15,88,15.8,5,6.9,78.7,None,53.6,Fail,Fail
+264,17,81,11.2,5,6.1,82.5,None,28.6,Fail,Fail
+265,17,84,15.4,5,7.8,75.2,High School,33.3,Fail,Fail
+266,17,96,9.9,4,7,81.1,Master,40,Fail,Fail
+267,19,100,16.5,6,7.2,80.6,Bachelor,39.5,Fail,Fail
+268,16,94,10.3,8,8.5,87.8,High School,50.6,Fail,Fail
+269,17,78,15.7,6,7.2,87.7,High School,35.7,Fail,Fail
+270,18,94,15.9,7,7.4,84,Bachelor,43.8,Fail,Fail
+271,19,100,11.9,3,6.3,77.1,Bachelor,34.5,Fail,Fail
+272,16,84,15.7,6,7,85.9,High School,44.5,Fail,Fail
+273,18,89,14.8,4,7.7,79.3,Bachelor,39.1,Fail,Fail
+274,18,90,12.4,3,6,71.3,High School,36.3,Fail,Fail
+275,17,82,11,4,7.4,76.8,Bachelor,34.2,Fail,Fail
+276,18,96,8.1,7,7.3,80.7,Bachelor,36.5,Fail,Fail
+277,18,89,15,7,7.2,87.3,High School,45.3,Fail,Fail
+278,17,94,9.3,6,8,78.5,Bachelor,45.8,Fail,Fail
+279,18,81,14.3,3,7.5,70.3,High School,31,Fail,Fail
+280,17,86,13.2,5,8.4,80.5,Bachelor,34,Fail,Fail
+281,18,97,16,6,6.4,80.9,High School,44.8,Fail,Fail
+282,18,86,13.1,6,7.3,81.5,Bachelor,40.2,Fail,Fail
+283,19,100,13,3,7.3,87.4,High School,49.1,Fail,Fail
+284,17,86,16.2,4,6.3,88.2,Bachelor,37.1,Fail,Fail
+285,19,92,15,5,8,75.2,Master,25.4,Fail,Fail
+286,16,99,14.9,6,9.1,75.1,High School,34.4,Fail,Fail
+287,17,76,15.4,2,7.2,71.7,Bachelor,30.4,Fail,Fail
+288,18,72,9.4,5,7.6,85.6,High School,41.2,Fail,Fail
+289,18,75,16.3,6,7.3,91.6,Bachelor,40.4,Fail,Fail
+290,17,100,15.8,7,6.6,77.5,High School,44.3,Fail,Fail
+291,17,84,10.9,7,5.7,78.1,Bachelor,36.6,Fail,Fail
+292,17,100,13.3,6,6.6,91.7,Bachelor,46.4,Fail,Fail
+293,17,84,13.9,4,6.1,84,None,42.5,Fail,Fail
+294,18,92,13.6,3,8.6,83.5,Bachelor,42.9,Fail,Fail
+295,18,100,15,5,7.1,70.5,Bachelor,35.7,Fail,Fail
+296,17,100,18.3,7,6.9,85.4,Bachelor,46.4,Fail,Fail
+297,18,100,17.2,8,7.9,72.6,None,31.6,Fail,Fail
+298,18,100,10.1,7,6.3,70.9,Master,45.6,Fail,Fail
+299,18,100,15.9,6,6.6,77.2,High School,37.3,Fail,Fail
+300,18,96,18,6,7.3,75.3,Master,29,Fail,Fail
+301,17,98,15.2,5,8,78.2,Bachelor,40.7,Fail,Fail
+302,17,84,17.3,5,7.6,68.5,Master,28.8,Fail,Fail
+303,18,82,20,8,7.4,87.7,Master,48.2,Fail,Fail
+304,18,90,17.1,4,7.3,89,High School,59.5,C,Pass
+305,17,88,14.7,8,7.5,64.4,Master,27.5,Fail,Fail
+306,18,85,17.1,5,7.4,87.8,High School,45.7,Fail,Fail
+307,19,97,14.4,7,6.4,73.5,High School,24.8,Fail,Fail
+308,17,100,14.1,3,7.2,86.9,High School,46.3,Fail,Fail
+309,18,91,12.9,6,6.3,79.5,Master,33.4,Fail,Fail
+310,17,100,18.7,4,7.3,80.2,High School,36,Fail,Fail
+311,17,79,11.5,3,6.8,78.5,High School,31,Fail,Fail
+312,18,88,18.6,6,9.2,89.7,Master,49.8,Fail,Fail
+313,18,83,15.5,7,7.2,70.1,High School,42.4,Fail,Fail
+314,18,71,9.8,4,6.1,84.9,High School,41.4,Fail,Fail
+315,19,89,15.1,3,7.1,88.8,High School,37.7,Fail,Fail
+316,18,89,7.7,5,7.6,85.7,Bachelor,53.2,Fail,Fail
+317,18,100,15.9,5,8.5,98,Bachelor,43.2,Fail,Fail
+318,17,96,16.7,6,6.7,75.8,High School,23.1,Fail,Fail
+319,18,80,12.2,7,5.9,87.7,None,46.1,Fail,Fail
+320,17,100,14.4,5,7.9,79.2,Master,32.1,Fail,Fail
+321,18,100,19.9,8,6.1,89.9,Bachelor,51.8,Fail,Fail
+322,18,96,12.5,6,6.9,79.9,Bachelor,37.2,Fail,Fail
+323,17,88,10.8,5,7,76.9,Bachelor,42.5,Fail,Fail
+324,19,80,18.4,3,7.1,90.4,Bachelor,54.2,Fail,Fail
+325,17,86,19.9,5,7.8,76.1,High School,29.9,Fail,Fail
+326,17,100,14,5,6.7,68.7,High School,31,Fail,Fail
+327,18,100,17,7,7,75.9,Master,37.9,Fail,Fail
+328,18,100,18,6,7.2,85,High School,53.4,Fail,Fail
+329,18,85,11.8,4,7.3,91.1,Bachelor,40,Fail,Fail
+330,18,79,12.5,6,7.3,80.9,Master,35.8,Fail,Fail
+331,17,91,17.7,7,7.5,90.5,Bachelor,48.2,Fail,Fail
+332,17,72,19.1,8,7.9,69.1,Bachelor,30.9,Fail,Fail
+333,18,93,15.7,7,7.5,76.5,Bachelor,39.6,Fail,Fail
+334,17,89,11.4,7,7.6,77.7,High School,27.9,Fail,Fail
+335,18,85,20,6,5.9,79.1,Master,55,Fail,Fail
+336,17,74,12.4,6,7.2,80.7,Bachelor,30.3,Fail,Fail
+337,17,95,13,7,7.6,85.5,Master,40.3,Fail,Fail
+338,17,85,15,4,7.8,76.4,None,38,Fail,Fail
+339,18,78,18.7,5,6.6,81.1,None,53.6,Fail,Fail
+340,17,61,16.6,4,6.7,79.6,None,29.7,Fail,Fail
+341,17,90,15.2,6,6.7,72.6,Bachelor,50.5,Fail,Fail
+342,18,100,15.4,7,7.6,79.1,Bachelor,45.2,Fail,Fail
+343,18,100,14.1,5,8,78.9,Bachelor,42.6,Fail,Fail
+344,17,85,15.7,2,6.9,78.7,Bachelor,32.2,Fail,Fail
+345,17,84,6.4,5,7.9,80.3,Master,43.5,Fail,Fail
+346,18,95,13.1,7,7.3,80.6,High School,35.2,Fail,Fail
+347,16,80,14.7,6,7.1,76.5,None,47,Fail,Fail
+348,16,93,10.5,6,7,90.2,Master,37.6,Fail,Fail
+349,17,98,15.2,5,7.8,70.6,None,35.2,Fail,Fail
+350,17,100,13.4,4,7.5,74.2,Master,33.6,Fail,Fail
+351,18,89,19.3,6,9,98,High School,41.5,Fail,Fail
+352,19,88,18.7,4,6.5,71.7,High School,41.4,Fail,Fail
+353,18,81,12.6,9,7.6,69.2,High School,38.6,Fail,Fail
+354,17,82,13.5,6,6.8,85.9,High School,50.7,Fail,Fail
+355,17,88,13.8,5,6.5,63.4,Bachelor,19.8,Fail,Fail
+356,17,94,12.6,5,7.2,78.1,Master,46.5,Fail,Fail
+357,17,99,14.6,5,7.3,97.2,Master,65.4,C,Pass
+358,17,82,11.7,5,9.5,67.6,Bachelor,31,Fail,Fail
+359,18,100,10.6,7,7.1,64.1,High School,46.1,Fail,Fail
+360,17,87,15.9,6,6.3,68,High School,32.6,Fail,Fail
+361,18,90,15.9,4,7.4,87.2,High School,33.6,Fail,Fail
+362,19,83,11.6,8,5.5,89,Bachelor,41.4,Fail,Fail
+363,17,66,16.7,6,7.1,75.9,Bachelor,44.9,Fail,Fail
+364,18,99,12.1,7,7.2,85.5,High School,36.7,Fail,Fail
+365,18,97,14.8,5,7.8,91.1,Bachelor,40.9,Fail,Fail
+366,17,87,16.5,6,8,94.3,High School,50.6,Fail,Fail
+367,18,91,13.9,6,6.8,78,Bachelor,39,Fail,Fail
+368,18,95,15.4,3,7.1,61.6,Bachelor,35.8,Fail,Fail
+369,18,74,12.5,9,6.6,73.4,Bachelor,38.2,Fail,Fail
+370,17,85,13.4,7,6.3,76.6,Bachelor,41.5,Fail,Fail
+371,18,98,13.4,5,7.4,77.9,None,36.1,Fail,Fail
+372,18,77,11.8,4,6.2,78.5,High School,40.2,Fail,Fail
+373,19,93,13.5,6,6.9,89,Bachelor,37.5,Fail,Fail
+374,18,76,9.4,6,6.4,90.2,Master,52.8,Fail,Fail
+375,19,95,12.5,6,7.6,78.6,Bachelor,34.9,Fail,Fail
+376,17,90,13.1,6,8.6,88.8,None,51.9,Fail,Fail
+377,18,74,13.2,6,6.2,82.9,Bachelor,39,Fail,Fail
+378,18,100,13.3,8,5.7,80.5,Bachelor,41.7,Fail,Fail
+379,19,83,13.8,6,7.1,87.3,High School,39.5,Fail,Fail
+380,17,82,15.4,4,7.2,80.6,Bachelor,32.8,Fail,Fail
+381,17,92,16.6,8,7.4,96.5,High School,35.4,Fail,Fail
+382,17,100,12.1,8,6.8,68.5,High School,27.5,Fail,Fail
+383,16,80,10.4,10,7,75.9,Bachelor,35.5,Fail,Fail
+384,17,91,10.9,4,7.5,79,Bachelor,40.8,Fail,Fail
+385,17,94,12.5,6,8,83.5,High School,48.6,Fail,Fail
+386,18,97,12.9,2,5.6,90.1,Bachelor,41.1,Fail,Fail
+387,18,92,11.7,6,6.9,79.8,Bachelor,33.5,Fail,Fail
+388,19,86,10.1,5,7.4,68.6,High School,24.4,Fail,Fail
+389,18,82,12.6,8,6.5,86.7,Bachelor,46,Fail,Fail
+390,17,91,14.5,4,8.6,86,Master,52.4,Fail,Fail
+391,17,79,15.8,3,6.7,64.5,Bachelor,41.4,Fail,Fail
+392,18,61,12.3,5,7.2,80,Bachelor,44,Fail,Fail
+393,16,94,12.8,3,7.6,67.3,Bachelor,38.6,Fail,Fail
+394,19,99,11.2,7,6.7,74.7,Bachelor,49.5,Fail,Fail
+395,18,66,13.9,2,5.7,72.8,None,38.1,Fail,Fail
+396,17,80,11.5,6,6.9,86.5,Bachelor,46.9,Fail,Fail
+397,16,96,15.7,2,8,80.9,High School,38.2,Fail,Fail
+398,19,100,8.6,5,6.9,69.7,Bachelor,25.6,Fail,Fail
+399,17,90,12.9,8,6.5,87,Master,38.2,Fail,Fail
+400,18,83,14.9,6,7.9,68.5,High School,34.6,Fail,Fail
+401,16,88,14.6,4,6.9,82.6,None,41.4,Fail,Fail
+402,17,100,22.1,5,6.8,73.5,None,51,Fail,Fail
+403,18,84,15,6,7.3,77.1,High School,39.1,Fail,Fail
+404,18,82,11,6,7.8,84,None,49.7,Fail,Fail
+405,17,85,13.7,3,9.1,84.2,Bachelor,38.7,Fail,Fail
+406,18,80,8.7,6,7.9,90.7,Master,42.1,Fail,Fail
+407,17,91,13.8,1,8.1,79.3,Bachelor,30.2,Fail,Fail
+408,17,100,11.5,5,6.8,82.5,Bachelor,35.9,Fail,Fail
+409,18,93,16.7,5,6.4,76.5,Bachelor,42.1,Fail,Fail
+410,18,87,12.4,6,7.2,81.5,Master,40.5,Fail,Fail
+411,18,87,13.6,6,7.3,83.5,High School,48,Fail,Fail
+412,17,74,12.1,3,6.3,79.2,Bachelor,40.1,Fail,Fail
+413,16,99,19.2,4,7.1,65.6,High School,31.3,Fail,Fail
+414,19,89,13,6,7.5,82.7,Bachelor,56.1,Fail,Fail
+415,18,88,19.5,5,7.5,82.9,Bachelor,40.8,Fail,Fail
+416,17,100,16.4,5,7.6,74.6,Bachelor,46,Fail,Fail
+417,19,93,15.4,5,7.4,69.7,Bachelor,32.6,Fail,Fail
+418,18,82,15.1,7,6.8,91.8,High School,50,Fail,Fail
+419,18,86,15.2,5,6.8,83.9,High School,48,Fail,Fail
+420,18,100,8.2,5,6.2,78.2,High School,40.4,Fail,Fail
+421,19,91,13.2,9,8.6,70.9,Bachelor,19.6,Fail,Fail
+422,19,76,16.5,3,7.2,73.4,None,36.7,Fail,Fail
+423,17,99,13.9,3,7,90.4,High School,53.3,Fail,Fail
+424,18,83,9.8,7,6.5,81.1,None,43.7,Fail,Fail
+425,18,100,13.8,4,9.5,75.6,Master,41.4,Fail,Fail
+426,19,100,19.1,5,6.3,84.1,Bachelor,30.1,Fail,Fail
+427,17,86,17.7,4,6.9,73.5,Bachelor,31.9,Fail,Fail
+428,18,100,13.8,5,7.5,92,Master,48.4,Fail,Fail
+429,18,91,16.9,8,7.7,90.8,High School,47.9,Fail,Fail
+430,16,99,12.9,7,8,76.3,Bachelor,47,Fail,Fail
+431,17,95,8.9,7,8.6,75,Bachelor,36.7,Fail,Fail
+432,16,82,11.2,3,7.6,59.1,Bachelor,32.9,Fail,Fail
+433,17,84,18.7,4,6.4,68.1,Master,34.6,Fail,Fail
+434,18,100,13.2,1,7,69.3,High School,28.2,Fail,Fail
+435,19,87,13.3,4,7.4,81.1,Bachelor,24.4,Fail,Fail
+436,18,86,13.1,7,8.9,77.4,Bachelor,41.8,Fail,Fail
+437,19,80,19.7,6,6.1,69.2,Bachelor,36.2,Fail,Fail
+438,16,94,18.9,5,8.2,77.8,Bachelor,35,Fail,Fail
+439,16,100,20.7,5,7.3,84,Bachelor,30.9,Fail,Fail
+440,17,79,13.5,4,7.9,84.2,Master,45.9,Fail,Fail
+441,18,90,14.9,6,7.1,64.8,Bachelor,31.2,Fail,Fail
+442,17,100,9.5,7,6.5,79,Master,43.3,Fail,Fail
+443,16,89,18.4,3,7.8,68.9,Bachelor,48.1,Fail,Fail
+444,17,95,10.5,6,7.7,87.2,High School,28.1,Fail,Fail
+445,16,79,14.7,7,8,86.3,High School,37.7,Fail,Fail
+446,18,94,10.7,5,7.2,72.8,High School,35.1,Fail,Fail
+447,18,88,12.2,7,6.7,73.9,Bachelor,47.2,Fail,Fail
+448,17,100,11.5,10,6,76.3,Bachelor,26.9,Fail,Fail
+449,17,100,12.2,5,7.9,62,Master,45.5,Fail,Fail
+450,17,100,12.4,6,7.5,82.7,Master,42.3,Fail,Fail
+451,17,96,12.4,4,6.4,77.8,High School,38.1,Fail,Fail
+452,18,93,16.5,6,6.8,87.8,High School,42.2,Fail,Fail
+453,17,92,10.7,6,6.8,71.2,High School,32.7,Fail,Fail
+454,18,86,14.7,6,6,75,Bachelor,44.8,Fail,Fail
+455,17,93,17.7,4,6.5,67.9,High School,27.1,Fail,Fail
+456,17,87,12.5,6,6.3,72,High School,38.5,Fail,Fail
+457,17,92,11.8,8,6.9,70.5,None,32.9,Fail,Fail
+458,17,100,13.3,6,6.6,88,Master,38.3,Fail,Fail
+459,17,80,17.5,7,5.9,74.4,High School,55.3,Fail,Fail
+460,17,100,14.6,5,8.8,81,Bachelor,43.7,Fail,Fail
+461,19,100,12.4,7,8.2,77,Bachelor,43.1,Fail,Fail
+462,18,89,15.5,6,6.6,69.8,Master,43.3,Fail,Fail
+463,17,69,10.7,4,7.4,78.7,Bachelor,28.6,Fail,Fail
+464,18,84,16,6,7.5,84.8,High School,54.3,Fail,Fail
+465,17,100,15.2,4,8.2,70.3,Master,18.3,Fail,Fail
+466,17,90,13.1,5,6.5,86.5,Bachelor,37.3,Fail,Fail
+467,18,80,11.5,6,8.1,73.2,High School,33.3,Fail,Fail
+468,18,85,11.3,6,6.8,76.1,Bachelor,41.9,Fail,Fail
+469,17,98,15.6,4,6.1,84.2,Bachelor,43.4,Fail,Fail
+470,17,95,17.7,7,7.8,74.7,Bachelor,36.7,Fail,Fail
+471,17,88,12.1,6,8.2,80.3,High School,39.9,Fail,Fail
+472,16,86,15.4,4,9.3,77.5,Bachelor,32,Fail,Fail
+473,16,86,7.7,3,6.2,81,High School,29.2,Fail,Fail
+474,19,81,12.2,5,7.8,61,Master,36.1,Fail,Fail
+475,19,100,13.9,5,6.9,65.4,High School,38.4,Fail,Fail
+476,17,87,11.3,6,7.8,84.9,High School,53,Fail,Fail
+477,18,100,11.2,5,6,88.3,Bachelor,38.1,Fail,Fail
+478,18,100,12,2,6.2,72.7,Master,41.4,Fail,Fail
+479,20,100,14.9,5,6.6,78,Master,37.2,Fail,Fail
+480,18,86,13.4,5,7.3,82.4,Bachelor,49.2,Fail,Fail
+481,17,94,7.3,6,6.7,85.5,High School,49.2,Fail,Fail
+482,17,90,7.6,4,7.7,63.8,Master,33.7,Fail,Fail
+483,16,81,12.2,8,8,72.9,Bachelor,34.2,Fail,Fail
+484,18,93,15.4,3,7.7,77.3,High School,45.5,Fail,Fail
+485,17,78,5.8,7,8.5,85.6,None,46.4,Fail,Fail
+486,16,100,12.5,5,7.5,98,High School,43.4,Fail,Fail
+487,17,85,12.4,7,6.2,78.2,None,29.5,Fail,Fail
+488,17,92,18.2,6,8.3,68.7,Master,33.2,Fail,Fail
+489,19,93,12.8,7,6.7,83.2,Bachelor,51.9,Fail,Fail
+490,18,87,15.1,5,7.9,90.6,None,52.7,Fail,Fail
+491,17,96,14.4,4,8.5,80.9,Master,32.7,Fail,Fail
+492,19,85,7.6,8,7.6,72.7,High School,28.1,Fail,Fail
+493,18,99,16.3,5,6,87.7,Bachelor,52.5,Fail,Fail
+494,17,77,14.6,6,6.5,85.3,High School,34,Fail,Fail
+495,19,91,15.5,7,8.3,71.8,Bachelor,40,Fail,Fail
+496,18,100,25.8,4,7.1,83.1,Master,37.7,Fail,Fail
+497,17,80,7.7,6,7.3,88,Bachelor,54.3,Fail,Fail
+498,17,83,19.2,5,7.8,89.5,Bachelor,38.9,Fail,Fail
+499,17,95,13.1,5,7.8,79.5,Bachelor,47.8,Fail,Fail
+500,16,92,14.9,6,7.4,77.1,Master,40,Fail,Fail
+501,18,94,13.9,3,7,89.8,High School,46,Fail,Fail
+502,19,95,12.7,4,6.9,70.3,Bachelor,21.7,Fail,Fail
+503,16,96,12.3,8,7.9,83.5,High School,26.3,Fail,Fail
+504,18,100,15,7,7.6,69,Bachelor,33.8,Fail,Fail
+505,17,94,9.4,5,7,88.5,High School,45.3,Fail,Fail
+506,17,88,16.3,6,8.1,77.9,Bachelor,31.2,Fail,Fail
+507,17,97,12.8,5,7.1,90.1,High School,36.9,Fail,Fail
+508,17,100,10.6,8,6.5,83.9,High School,45.7,Fail,Fail
+509,18,89,12.6,5,6.6,70.2,None,39.2,Fail,Fail
+510,17,80,17.8,6,6.4,91.4,High School,43.9,Fail,Fail
+511,18,100,12.4,7,7,92.4,Bachelor,51.1,Fail,Fail
+512,17,89,15.1,4,8.2,87.1,High School,34.9,Fail,Fail
+513,17,68,11.8,8,6.6,73.9,Bachelor,34,Fail,Fail
+514,17,98,16.3,3,7.4,77.6,Bachelor,50.6,Fail,Fail
+515,17,85,16.1,8,6.7,81.2,Bachelor,40.9,Fail,Fail
+516,18,89,19.5,5,7,74.4,High School,38.5,Fail,Fail
+517,18,93,13.5,5,6,93.5,Bachelor,62,C,Pass
+518,17,92,16,3,7,81.2,Bachelor,30.7,Fail,Fail
+519,18,97,14.3,5,7,58.4,Master,35.9,Fail,Fail
+520,18,86,17.9,4,7.6,82.7,Bachelor,52.8,Fail,Fail
+521,16,95,11.8,5,7.4,77.2,Bachelor,36.4,Fail,Fail
+522,18,87,16.2,5,6.2,79.4,High School,45.5,Fail,Fail
+523,17,97,13.4,7,8.1,77.1,High School,32,Fail,Fail
+524,18,96,13.8,6,7.4,86.5,High School,38.2,Fail,Fail
+525,17,81,14.3,6,7.4,89,High School,46.4,Fail,Fail
+526,16,100,14.8,4,7.2,82.3,High School,46.7,Fail,Fail
+527,16,85,13.7,4,6.8,77.3,Bachelor,46.3,Fail,Fail
+528,18,98,14.6,8,7.4,79.7,Bachelor,51.1,Fail,Fail
+529,18,94,18.7,4,7.6,80.2,None,39.8,Fail,Fail
+530,17,100,17,8,5.8,73.6,High School,45.7,Fail,Fail
+531,18,88,16.6,5,6.8,84.6,Bachelor,39.6,Fail,Fail
+532,16,87,12.6,6,7,83.7,Master,47.7,Fail,Fail
+533,17,90,11.3,7,7.4,92.3,Bachelor,46.8,Fail,Fail
+534,17,87,16.9,7,8.2,90,High School,47.7,Fail,Fail
+535,17,98,16.6,5,6.6,74.5,High School,40.6,Fail,Fail
+536,18,74,18.4,5,6.8,86.6,High School,31.4,Fail,Fail
+537,17,79,12.2,5,6.8,72.4,Bachelor,28.2,Fail,Fail
+538,17,79,13.3,6,6.6,85.6,Master,42.8,Fail,Fail
+539,18,100,9.1,7,6.9,75.9,High School,26.3,Fail,Fail
+540,17,100,12.8,6,7.8,71.8,High School,42.3,Fail,Fail
+541,18,89,17,6,6.4,82.2,Master,47,Fail,Fail
+542,17,88,12.6,8,7.5,58.6,Master,32.5,Fail,Fail
+543,18,91,15.9,6,5.8,66,Bachelor,25.7,Fail,Fail
+544,19,100,13.4,6,6.8,78.6,Bachelor,49.1,Fail,Fail
+545,16,81,15,3,6.9,80.7,Bachelor,54.2,Fail,Fail
+546,17,92,10.6,2,8.5,77,High School,39.4,Fail,Fail
+547,18,100,14.3,6,7,67.4,Bachelor,38,Fail,Fail
+548,17,95,5,5,5.4,73.5,Bachelor,37.8,Fail,Fail
+549,18,92,13.4,5,5.6,83.1,None,44.8,Fail,Fail
+550,17,100,9.1,6,7.2,84.7,High School,41.2,Fail,Fail
+551,18,63,17.6,5,7.7,79.9,Bachelor,39.1,Fail,Fail
+552,17,97,16.3,7,7.5,89.3,Bachelor,50.8,Fail,Fail
+553,18,83,15.4,6,7.3,83.2,Bachelor,57.7,Fail,Fail
+554,18,72,18.6,4,8.1,74,High School,27.2,Fail,Fail
+555,18,95,11.2,7,6.8,77.8,Bachelor,38.2,Fail,Fail
+556,17,100,19.2,5,7.9,68.8,Master,27.1,Fail,Fail
+557,17,89,16.8,6,5.9,79.1,Bachelor,50.6,Fail,Fail
+558,17,100,13.3,5,6.5,88.9,Bachelor,39.9,Fail,Fail
+559,18,100,17.4,5,5.8,85.5,High School,32.5,Fail,Fail
+560,17,100,10.7,6,7,91.2,High School,49.5,Fail,Fail
+561,18,100,11.5,6,7.2,77.6,Bachelor,51.2,Fail,Fail
+562,19,97,12.2,6,7.3,90.8,Master,49.5,Fail,Fail
+563,18,91,12.4,5,7.2,78.5,None,40.6,Fail,Fail
+564,17,74,10.8,3,6.5,91.8,Bachelor,47.3,Fail,Fail
+565,18,88,17.7,5,7,79.8,Bachelor,49.8,Fail,Fail
+566,17,82,13.2,7,6,85.7,Master,36,Fail,Fail
+567,16,100,15.1,5,8.3,91.8,Bachelor,44.8,Fail,Fail
+568,17,88,12.3,5,7,78.5,Bachelor,35.9,Fail,Fail
+569,16,91,8.5,7,6.8,81.7,High School,32.2,Fail,Fail
+570,17,96,14.8,4,8.5,90.3,Master,42.5,Fail,Fail
+571,18,90,8.3,3,6.2,78.9,Bachelor,46.7,Fail,Fail
+572,19,100,13.8,5,6.3,69.4,Master,39.2,Fail,Fail
+573,18,84,9.9,5,6.3,97.1,Master,51.6,Fail,Fail
+574,17,92,20,4,7.1,76.2,High School,39.5,Fail,Fail
+575,18,83,16.7,5,7.5,81.3,Master,44.1,Fail,Fail
+576,16,77,14.3,6,7.8,89.2,Master,38.2,Fail,Fail
+577,18,84,17.8,5,9.3,75.1,Bachelor,35.7,Fail,Fail
+578,18,90,11.5,6,5.4,71.9,High School,37.3,Fail,Fail
+579,16,86,15.6,8,7.7,82,High School,42.8,Fail,Fail
+580,18,83,14.6,5,6.8,65.7,Bachelor,35.5,Fail,Fail
+581,18,76,14.8,6,6.7,77.7,Bachelor,37.5,Fail,Fail
+582,17,89,17.8,5,6.7,82,Bachelor,38.2,Fail,Fail
+583,18,75,16.2,4,6.5,77.8,High School,60.6,C,Pass
+584,19,98,14.9,5,8.5,67.7,Master,41,Fail,Fail
+585,18,91,9,5,7.9,92.8,High School,48.4,Fail,Fail
+586,18,75,11.1,6,7.2,80.8,High School,38.1,Fail,Fail
+587,17,87,13.6,9,8.3,91.4,Bachelor,42,Fail,Fail
+588,17,82,14.3,4,6,77.9,Bachelor,37.7,Fail,Fail
+589,18,93,10.6,5,6.1,73,High School,38.6,Fail,Fail
+590,17,100,21.2,5,5.5,82.2,High School,28.1,Fail,Fail
+591,18,71,18.5,6,6.6,78.3,High School,27.8,Fail,Fail
+592,17,91,15.8,6,7.3,70.6,Master,31.3,Fail,Fail
+593,18,88,14.2,7,7.3,91.8,Master,46.7,Fail,Fail
+594,18,97,13.4,2,7.3,75,Bachelor,36,Fail,Fail
+595,18,92,11.1,2,6.1,65.3,Master,43.3,Fail,Fail
+596,17,82,14.2,5,7.8,90.6,Master,34.1,Fail,Fail
+597,17,87,14.8,7,7.4,76,High School,32.9,Fail,Fail
+598,17,82,10.3,3,7.8,75.1,None,47.9,Fail,Fail
+599,17,100,15,1,5.7,65.9,Master,34.4,Fail,Fail
+600,18,90,13.5,6,7.4,93.9,High School,52.3,Fail,Fail
+601,18,100,8.3,6,6.2,69.7,High School,49.5,Fail,Fail
+602,17,89,11.4,4,6.9,80.5,High School,35,Fail,Fail
+603,18,83,12.8,4,7.6,87.3,High School,42.2,Fail,Fail
+604,19,75,19.7,4,7.3,83.4,Master,39.4,Fail,Fail
+605,18,72,15.7,6,6.5,79.5,Bachelor,25.6,Fail,Fail
+606,19,74,10,5,7.2,66.4,Master,31,Fail,Fail
+607,17,93,15.5,6,6,73.5,Master,43.2,Fail,Fail
+608,17,95,9.4,1,8.1,81.5,Bachelor,44.2,Fail,Fail
+609,16,74,17.2,4,7,73.7,Bachelor,41.1,Fail,Fail
+610,19,99,12.6,4,8.1,81.6,High School,38.2,Fail,Fail
+611,18,85,13.7,5,6.8,85.5,Bachelor,37.6,Fail,Fail
+612,17,91,18,5,6.8,87.7,Bachelor,52.4,Fail,Fail
+613,18,100,10.1,7,6.6,70.2,High School,32,Fail,Fail
+614,17,99,9.8,3,7.9,97.6,High School,49.8,Fail,Fail
+615,19,87,12.2,6,6.6,86.1,Master,43.6,Fail,Fail
+616,18,81,17.1,6,7.7,80,Bachelor,50.1,Fail,Fail
+617,18,68,9.4,8,6.9,88.7,High School,49.9,Fail,Fail
+618,18,83,5.5,5,5.6,98,Bachelor,38.1,Fail,Fail
+619,18,88,12.6,6,6.7,68.5,Master,26.2,Fail,Fail
+620,18,80,15.7,3,6.3,78.2,Bachelor,42.8,Fail,Fail
+621,17,89,17.6,2,7.2,61,High School,30.9,Fail,Fail
+622,18,91,12.6,7,6.2,81.5,None,37.3,Fail,Fail
+623,19,88,12.8,5,7.9,82.9,Bachelor,48.2,Fail,Fail
+624,19,83,17.5,7,7.1,79.7,High School,41.1,Fail,Fail
+625,19,92,8.4,3,7.1,74.8,Bachelor,37.6,Fail,Fail
+626,17,94,12.8,6,7.7,63.6,Master,38.1,Fail,Fail
+627,17,79,14.6,8,8,83,High School,38.5,Fail,Fail
+628,17,100,15.3,6,7.2,91.6,High School,56.4,Fail,Fail
+629,18,89,12.5,6,6.6,75.3,High School,32.1,Fail,Fail
+630,18,90,14.1,6,5.8,83.5,None,45.9,Fail,Fail
+631,16,97,6.5,3,6.7,67.5,High School,43.9,Fail,Fail
+632,19,92,12,8,6.7,83.7,Bachelor,31.9,Fail,Fail
+633,17,100,15.4,5,7.3,76.9,None,36.4,Fail,Fail
+634,17,93,11.1,6,6.9,73.9,High School,45,Fail,Fail
+635,17,84,14.2,3,7.8,73.9,None,45.1,Fail,Fail
+636,16,94,15.3,4,6.7,76.9,None,37.3,Fail,Fail
+637,18,79,13,8,7.2,83.1,Master,35.9,Fail,Fail
+638,18,91,14.5,5,8.1,69.5,High School,42,Fail,Fail
+639,16,90,11.1,8,7.5,76.8,Bachelor,46.7,Fail,Fail
+640,16,88,13.4,5,7.2,79.7,Master,31.5,Fail,Fail
+641,17,89,15.8,3,6.7,71.2,None,27.4,Fail,Fail
+642,19,71,14.5,7,6.7,94.4,High School,47.5,Fail,Fail
+643,17,85,12.2,5,6.5,73.2,Master,40.9,Fail,Fail
+644,16,91,14.7,7,6.8,74.6,Bachelor,35.4,Fail,Fail
+645,17,92,16.1,6,7.8,72.2,High School,41.4,Fail,Fail
+646,17,80,7.9,3,7,94.4,Bachelor,40.7,Fail,Fail
+647,15,100,17.5,6,6.1,84.4,Master,27.4,Fail,Fail
+648,17,81,13,9,8.6,72.5,Bachelor,33.5,Fail,Fail
+649,17,100,15.3,6,7.5,88.8,Bachelor,44.6,Fail,Fail
+650,18,94,17.6,5,6.1,81.6,None,38.8,Fail,Fail
+651,19,84,9.9,7,6.8,82.1,Bachelor,32.4,Fail,Fail
+652,18,100,11.9,6,7.3,77.2,Bachelor,26.1,Fail,Fail
+653,17,78,13.1,6,8.6,74,Bachelor,33.4,Fail,Fail
+654,17,99,11.6,4,6.3,82.7,Bachelor,47.3,Fail,Fail
+655,20,100,19.2,6,8,75.6,Bachelor,47.3,Fail,Fail
+656,18,83,11.4,7,8.3,94.5,None,54.6,Fail,Fail
+657,18,100,12.3,4,6.7,69.8,Bachelor,29.6,Fail,Fail
+658,17,87,14.6,8,7,92.3,Master,37.4,Fail,Fail
+659,18,93,10.4,5,6.4,79.1,High School,42.7,Fail,Fail
+660,17,93,12.8,4,7,82.4,High School,45.3,Fail,Fail
+661,17,89,15,7,7.2,86.7,Bachelor,45.8,Fail,Fail
+662,17,98,13,5,7.7,75,High School,23.7,Fail,Fail
+663,17,98,13.7,7,8.1,86.9,High School,37.2,Fail,Fail
+664,17,73,12.4,5,6.6,58.3,Bachelor,29.3,Fail,Fail
+665,17,100,9.5,5,5.6,74.2,High School,40.5,Fail,Fail
+666,18,73,15,6,7.2,72.6,High School,41.6,Fail,Fail
+667,17,100,19.3,6,7.4,70,Bachelor,36.9,Fail,Fail
+668,19,100,14.1,3,7.4,78.3,Bachelor,41.6,Fail,Fail
+669,15,79,14.7,4,6.9,83.1,None,41.5,Fail,Fail
+670,18,86,16.1,7,7.3,85.6,Bachelor,47.3,Fail,Fail
+671,18,79,10.2,5,8.4,81.9,Bachelor,42.6,Fail,Fail
+672,16,88,19.1,5,7.5,74.7,None,38.2,Fail,Fail
+673,17,87,14.6,3,6.9,83,Master,39.2,Fail,Fail
+674,17,98,18.9,4,6.8,81,High School,41.2,Fail,Fail
+675,16,100,11.8,2,7.1,87.5,High School,46.6,Fail,Fail
+676,17,100,19.5,5,8.5,86.2,Bachelor,45.2,Fail,Fail
+677,17,84,16.3,5,7.1,80.2,Bachelor,42.6,Fail,Fail
+678,19,88,15.7,4,7.2,72.8,Master,46,Fail,Fail
+679,18,73,14.7,5,6.8,74.8,Master,38.9,Fail,Fail
+680,19,82,13.3,6,8.1,75.6,Bachelor,33.2,Fail,Fail
+681,18,100,17.6,9,8.8,77.5,None,45.7,Fail,Fail
+682,17,100,14.4,3,7.6,82.1,Bachelor,31.5,Fail,Fail
+683,17,78,8.1,7,7.3,85.7,High School,34.3,Fail,Fail
+684,18,84,10.6,7,7.2,79.6,Master,41.8,Fail,Fail
+685,17,90,13.4,4,5.3,80.1,High School,43.3,Fail,Fail
+686,18,93,14.9,6,7.8,81.1,Master,31.9,Fail,Fail
+687,17,82,13.8,5,7.3,75.9,None,35.1,Fail,Fail
+688,17,94,17.7,6,7.5,72.6,Bachelor,32.6,Fail,Fail
+689,18,85,8.1,8,6.6,66,Bachelor,29.8,Fail,Fail
+690,18,90,14.4,6,6.9,74.4,Bachelor,44,Fail,Fail
+691,17,95,8.5,6,6.9,83.8,Bachelor,46.4,Fail,Fail
+692,18,90,16.3,5,8,74.4,Bachelor,37.4,Fail,Fail
+693,17,86,13.7,3,6.9,78.1,Bachelor,35,Fail,Fail
+694,18,89,15.3,5,8.9,83.7,Master,32.3,Fail,Fail
+695,18,89,11.4,7,7.5,84.2,Bachelor,51.6,Fail,Fail
+696,17,86,17.8,3,6.2,71.4,High School,40,Fail,Fail
+697,18,87,17.1,4,7.1,88,Bachelor,38.5,Fail,Fail
+698,16,100,15.8,6,6.7,89,Master,49.3,Fail,Fail
+699,18,96,13.6,4,5.4,71,Bachelor,35.2,Fail,Fail
+700,17,87,15.7,4,8.5,73.4,Bachelor,35,Fail,Fail
+701,17,97,11.9,5,7.8,89.5,Master,47.3,Fail,Fail
+702,18,87,16.6,3,7.6,78.8,Bachelor,34.1,Fail,Fail
+703,17,100,18.9,4,7.3,62.2,Bachelor,29.9,Fail,Fail
+704,16,94,17.2,7,6.1,68.8,Master,35.9,Fail,Fail
+705,16,89,11.8,4,6.8,78,High School,35.2,Fail,Fail
+706,18,94,15.1,3,7.9,70.7,None,40.5,Fail,Fail
+707,16,74,10.1,5,6.4,76.7,High School,50.8,Fail,Fail
+708,19,79,15.7,7,5.2,80.3,High School,34.4,Fail,Fail
+709,16,78,15.4,5,7,91.7,Master,33.2,Fail,Fail
+710,19,91,8.4,5,7.1,77.7,High School,24.5,Fail,Fail
+711,18,100,10.5,6,7.3,88.6,Master,42.8,Fail,Fail
+712,17,100,13.2,3,7.8,91.4,Master,40.5,Fail,Fail
+713,17,96,13.1,6,7.7,91.5,Master,46.7,Fail,Fail
+714,18,95,10.4,6,7.4,82.3,None,41.8,Fail,Fail
+715,17,72,15.2,5,8.2,64.3,High School,21.3,Fail,Fail
+716,18,85,14.8,7,6,83.7,Master,28.7,Fail,Fail
+717,18,82,13.4,4,7.6,88.4,High School,45.5,Fail,Fail
+718,18,84,11.7,7,7.7,79.4,Bachelor,40.4,Fail,Fail
+719,17,88,17.1,6,6.2,94,Master,43.2,Fail,Fail
+720,17,85,19,5,6,86.9,Bachelor,31.4,Fail,Fail
+721,18,70,12.5,5,6.6,84.5,Bachelor,44.5,Fail,Fail
+722,16,97,12.2,5,6.7,88.7,Bachelor,52.7,Fail,Fail
+723,16,79,15.5,7,7.8,82.7,Bachelor,43,Fail,Fail
+724,18,92,12.9,4,6.7,60.1,None,24.9,Fail,Fail
+725,18,100,13.6,4,6.5,76,High School,38.5,Fail,Fail
+726,17,81,16.2,7,6.7,89.6,Bachelor,34.5,Fail,Fail
+727,18,65,8.3,5,8.1,73.5,Master,43.5,Fail,Fail
+728,18,87,18,7,7.2,78.2,Bachelor,39.8,Fail,Fail
+729,17,100,14.2,8,7.1,71.6,High School,24.1,Fail,Fail
+730,17,100,12.8,5,7.1,94.3,Bachelor,44.4,Fail,Fail
+731,18,78,13.7,7,8.2,93.5,Bachelor,49,Fail,Fail
+732,17,95,13.9,4,6.6,72.9,High School,34.4,Fail,Fail
+733,18,85,8.8,7,8.3,81.2,Master,38.3,Fail,Fail
+734,16,89,18.5,6,7.4,74.6,Bachelor,29.1,Fail,Fail
+735,18,100,14.1,6,7.1,84.9,None,46.3,Fail,Fail
+736,18,75,15.3,5,9.2,84.1,Master,37.1,Fail,Fail
+737,18,93,16.9,3,6.4,86.5,Bachelor,27.8,Fail,Fail
+738,18,95,10.9,6,6.9,82.7,High School,38.5,Fail,Fail
+739,19,100,15.4,2,6.2,98,Bachelor,54.9,Fail,Fail
+740,18,91,13.2,5,8,71.8,High School,33.5,Fail,Fail
+741,16,93,16.5,7,8.6,66.3,None,46.3,Fail,Fail
+742,16,86,7.6,6,8.5,76.9,High School,41.2,Fail,Fail
+743,17,93,13.7,8,8.2,67.5,High School,36.9,Fail,Fail
+744,18,87,12.2,7,7,68.1,Bachelor,33.5,Fail,Fail
+745,18,96,15.3,5,6.9,72,High School,36,Fail,Fail
+746,17,86,15.4,6,5.9,72.6,High School,34.6,Fail,Fail
+747,18,94,11.9,5,8.8,72.4,Bachelor,34.5,Fail,Fail
+748,17,90,11.9,3,7.6,84.1,High School,45.3,Fail,Fail
+749,17,100,13.7,4,6.8,76,High School,31.7,Fail,Fail
+750,16,89,11.3,5,8.3,78.6,Bachelor,31.6,Fail,Fail
+751,17,72,16.5,2,6.4,87.2,Master,34.7,Fail,Fail
+752,16,100,12.9,6,7.5,73.9,Bachelor,51.7,Fail,Fail
+753,17,81,5.3,5,7.1,77.9,Bachelor,42,Fail,Fail
+754,18,83,12.9,3,7.7,82.9,Bachelor,43,Fail,Fail
+755,17,84,10.9,6,7.1,64.5,Bachelor,25.2,Fail,Fail
+756,20,100,9.1,7,6,60.9,None,35.6,Fail,Fail
+757,18,69,10.3,6,7.3,82.8,High School,39.6,Fail,Fail
+758,18,100,14.3,5,8,83.9,Bachelor,43.5,Fail,Fail
+759,17,100,18,6,7.2,96.5,Master,40.9,Fail,Fail
+760,18,92,14.9,7,7.8,81.3,Master,41.8,Fail,Fail
+761,17,89,12.2,6,6.4,86.6,High School,39.7,Fail,Fail
+762,18,93,15.4,4,7.2,78.4,High School,33.9,Fail,Fail
+763,20,95,12.6,6,6.7,82.4,Master,46.1,Fail,Fail
+764,17,96,11.9,7,7.8,93.3,High School,35.3,Fail,Fail
+765,18,96,10.5,5,7.2,63,Master,36.1,Fail,Fail
+766,17,91,8.7,9,7.8,83.3,Master,46.1,Fail,Fail
+767,17,88,12.8,5,8.1,97.1,Master,41.4,Fail,Fail
+768,19,88,14.5,6,7.8,82.3,High School,35.2,Fail,Fail
+769,17,88,13.7,4,7.4,93.2,Master,44.2,Fail,Fail
+770,19,100,12.8,6,6.4,75,Bachelor,39.7,Fail,Fail
+771,18,96,11.2,3,7.2,79.7,Master,38.6,Fail,Fail
+772,17,61,15.8,5,6.8,80.3,High School,42.4,Fail,Fail
+773,18,97,10,4,6.9,62.3,High School,44.1,Fail,Fail
+774,18,92,16.3,6,6.9,70.7,Bachelor,32.3,Fail,Fail
+775,18,90,11,7,6.4,71.2,High School,23.7,Fail,Fail
+776,16,86,11.7,6,5.6,86.6,Bachelor,48.3,Fail,Fail
+777,17,100,9.6,2,6.7,87,None,54.7,Fail,Fail
+778,17,99,12.5,9,7.4,82.6,Bachelor,44.1,Fail,Fail
+779,17,82,16.9,6,6.1,86.6,Master,35.1,Fail,Fail
+780,18,94,15.5,4,7.2,78.7,High School,38.5,Fail,Fail
+781,18,80,16.9,6,8.7,89.6,High School,36.4,Fail,Fail
+782,16,76,15.6,6,8,80.1,High School,44.2,Fail,Fail
+783,18,84,10.7,4,8.5,80.5,Bachelor,30.4,Fail,Fail
+784,18,99,13,6,7.5,77.9,None,37.1,Fail,Fail
+785,18,100,11.7,5,8.1,85.5,High School,35.5,Fail,Fail
+786,18,95,18,5,6.6,76.6,Bachelor,39.5,Fail,Fail
+787,18,97,10.4,4,6.7,87.8,Bachelor,40.7,Fail,Fail
+788,18,95,16.7,3,5,70.9,None,37,Fail,Fail
+789,17,84,16.7,6,8.1,71.2,High School,36.2,Fail,Fail
+790,16,94,19.5,6,8.4,85.5,High School,36,Fail,Fail
+791,18,98,12.8,6,6.8,79.3,High School,44.1,Fail,Fail
+792,18,98,16.1,7,7,76.4,Bachelor,38.3,Fail,Fail
+793,18,100,20.8,6,6.6,87.1,High School,36.7,Fail,Fail
+794,16,97,12.1,5,7.5,75.1,Master,53.4,Fail,Fail
+795,17,94,9.4,7,8.1,78.4,Bachelor,42.5,Fail,Fail
+796,18,100,8.4,3,5.8,91.2,Bachelor,43.6,Fail,Fail
+797,17,90,16.1,4,7.5,92.3,Bachelor,55.4,Fail,Fail
+798,18,81,8.4,4,7,92.6,High School,57.9,Fail,Fail
+799,18,88,12.9,7,7.3,77.7,Bachelor,37.8,Fail,Fail
+800,18,83,15.3,7,7.6,89.8,None,46.7,Fail,Fail
+801,18,83,14.6,6,7,72.4,Master,29.4,Fail,Fail
+802,17,89,15.3,7,7.1,72.7,Master,35.6,Fail,Fail
+803,18,82,14.7,4,7,61.2,Master,29.8,Fail,Fail
+804,17,87,17.8,6,8,93.4,High School,47.4,Fail,Fail
+805,17,71,11.1,5,7.5,73.1,High School,38.5,Fail,Fail
+806,17,92,12,7,7.4,79,High School,43.4,Fail,Fail
+807,18,90,11.7,5,6.2,72.7,Bachelor,38,Fail,Fail
+808,17,82,16.5,5,6.9,85.6,High School,33.8,Fail,Fail
+809,19,97,16.7,6,7.9,77,Bachelor,32.4,Fail,Fail
+810,17,99,15.4,7,7.2,69.6,Bachelor,31.7,Fail,Fail
+811,17,74,17.6,4,7.7,83.5,Master,39.2,Fail,Fail
+812,17,82,10.5,5,8.6,68.5,Master,41.8,Fail,Fail
+813,19,82,19,4,8,73.3,None,28.8,Fail,Fail
+814,18,81,18.6,2,7.3,63.1,High School,29.7,Fail,Fail
+815,18,98,16.2,6,6.8,68.6,High School,41.7,Fail,Fail
+816,16,88,19.3,6,5.2,81.4,Bachelor,38.4,Fail,Fail
+817,18,87,9,6,7.1,64.3,High School,35.7,Fail,Fail
+818,18,70,12.4,3,6.9,68.2,High School,32.9,Fail,Fail
+819,18,96,11.8,5,7.5,80,Bachelor,41.7,Fail,Fail
+820,18,78,16.2,2,7.1,75.7,High School,36,Fail,Fail
+821,17,91,10.8,8,6.9,95.9,Bachelor,51.6,Fail,Fail
+822,19,93,16.3,4,5.8,94.7,Bachelor,35.7,Fail,Fail
+823,19,100,18.1,7,6.4,73.1,Bachelor,34.7,Fail,Fail
+824,17,77,16.1,7,7.6,84.5,Bachelor,43.9,Fail,Fail
+825,17,60,14.9,4,8.6,86,Bachelor,45.7,Fail,Fail
+826,19,92,11,4,7.1,75.2,High School,48,Fail,Fail
+827,19,100,11.5,6,7.5,68,High School,31.9,Fail,Fail
+828,17,100,17.7,4,8,79.9,Bachelor,50.6,Fail,Fail
+829,17,92,16.3,6,6.6,78.6,Master,34.8,Fail,Fail
+830,17,85,13.9,5,7.5,76.5,Master,47.5,Fail,Fail
+831,16,98,12.7,3,6.6,83.5,Bachelor,47.2,Fail,Fail
+832,17,80,7.9,2,7.9,74,High School,30.2,Fail,Fail
+833,17,95,10.8,6,7.3,70.8,Bachelor,37.9,Fail,Fail
+834,17,95,19.7,5,7.4,80.9,Bachelor,40.3,Fail,Fail
+835,17,100,10.2,5,6.6,83.1,Bachelor,45.6,Fail,Fail
+836,18,100,14.6,7,7.8,70.6,Bachelor,34.5,Fail,Fail
+837,19,94,17,7,8.9,87.4,Bachelor,41.5,Fail,Fail
+838,17,85,10.2,5,6.4,65.8,Bachelor,42.7,Fail,Fail
+839,18,90,14.6,5,6.9,75.4,Master,37.1,Fail,Fail
+840,17,72,16.8,6,7.4,77.9,High School,44.4,Fail,Fail
+841,17,83,14,3,7.8,74.9,Master,35.8,Fail,Fail
+842,18,86,22.6,6,6.8,75.5,High School,49.8,Fail,Fail
+843,17,85,9,6,4.9,95,High School,41.3,Fail,Fail
+844,18,92,17.2,7,8.3,73.2,None,32.9,Fail,Fail
+845,18,82,13.5,3,7.8,98,None,58.4,Fail,Fail
+846,18,100,16.3,4,5.8,83.5,High School,38.5,Fail,Fail
+847,18,90,15.3,4,6.7,80.7,Bachelor,51.4,Fail,Fail
+848,19,90,11.8,6,8.5,83.8,High School,47.9,Fail,Fail
+849,17,87,14.7,6,8.4,98,Bachelor,47,Fail,Fail
+850,17,92,8.4,8,8,72.1,Master,23.6,Fail,Fail
+851,17,98,15.8,5,7.1,71,None,36,Fail,Fail
+852,17,81,14.9,5,7.3,74,Bachelor,37.7,Fail,Fail
+853,17,83,15.9,7,7.1,80.3,Bachelor,48.1,Fail,Fail
+854,18,87,17.2,6,8.1,66.2,Bachelor,45,Fail,Fail
+855,19,77,15.1,7,6.5,80.2,Bachelor,34.9,Fail,Fail
+856,17,82,14.4,6,6.6,93.5,None,51.3,Fail,Fail
+857,17,85,11.4,4,8,81.2,Master,45.5,Fail,Fail
+858,18,99,11.9,4,7.2,77.7,Bachelor,46.4,Fail,Fail
+859,17,93,17.6,3,8.3,75.1,Bachelor,41.4,Fail,Fail
+860,18,92,18.3,6,6.7,87.2,High School,29.8,Fail,Fail
+861,18,99,13.3,7,7.2,73.4,High School,36.1,Fail,Fail
+862,16,89,14.1,8,6.5,94.8,Master,38.5,Fail,Fail
+863,19,94,11.3,7,7.2,95.5,Bachelor,45.5,Fail,Fail
+864,19,89,17.5,7,6,82.1,Bachelor,47.8,Fail,Fail
+865,17,93,16,5,6.8,79.9,Bachelor,42.1,Fail,Fail
+866,17,84,19.8,4,6.1,88.2,Master,51.6,Fail,Fail
+867,18,66,11.4,7,7.8,88.8,High School,45.6,Fail,Fail
+868,18,89,12.9,6,7.8,73.6,Master,27.9,Fail,Fail
+869,18,100,14.7,6,5.8,75.8,Master,20.5,Fail,Fail
+870,19,99,15.9,6,8.3,69.4,None,36.6,Fail,Fail
+871,17,100,13.4,6,9.2,83.3,Bachelor,40.3,Fail,Fail
+872,17,100,11.4,7,7.2,85.3,High School,35.6,Fail,Fail
+873,16,91,16.6,7,6.7,69.2,Bachelor,23.3,Fail,Fail
+874,17,92,16.2,6,9.5,76.4,Bachelor,33.5,Fail,Fail
+875,17,84,11.3,7,6.1,69.2,High School,33.3,Fail,Fail
+876,19,87,18.1,6,7.2,72.8,Bachelor,41.4,Fail,Fail
+877,17,96,17.5,5,7.3,84.4,Bachelor,43.5,Fail,Fail
+878,18,100,14.4,7,8.3,74.1,Master,48.9,Fail,Fail
+879,17,89,14.2,3,7.5,77.6,High School,31.5,Fail,Fail
+880,18,85,15.7,7,6.8,67,Bachelor,40.2,Fail,Fail
+881,20,90,11.4,4,6.4,81.5,Master,40.6,Fail,Fail
+882,17,96,14.1,6,6.9,79.6,Master,44.7,Fail,Fail
+883,17,76,7.5,4,6.4,74.2,Master,33.4,Fail,Fail
+884,18,67,16.6,6,7.2,78.5,Master,46.3,Fail,Fail
+885,18,84,9.3,5,6.7,81.4,None,42.1,Fail,Fail
+886,19,78,18.5,3,6,73.5,Bachelor,31.9,Fail,Fail
+887,18,85,13,6,8.2,68.2,Bachelor,34.4,Fail,Fail
+888,17,89,13.4,5,6.8,94.4,High School,44.6,Fail,Fail
+889,18,85,12.1,7,6.2,74.9,High School,40.7,Fail,Fail
+890,18,100,13.1,6,7.1,79.2,High School,31.5,Fail,Fail
+891,18,93,18.3,6,7.3,88.1,High School,43.6,Fail,Fail
+892,18,93,6.5,4,5.8,98,High School,50.2,Fail,Fail
+893,18,96,17.8,5,7.5,70,High School,36,Fail,Fail
+894,18,79,15,5,6.4,83.6,High School,50.6,Fail,Fail
+895,19,100,10.4,7,8.6,74.3,None,43,Fail,Fail
+896,18,89,10.8,8,7.6,75.7,High School,37.8,Fail,Fail
+897,17,97,19,4,6.9,74.2,Master,39.1,Fail,Fail
+898,18,79,11.2,7,6.6,71,High School,37.5,Fail,Fail
+899,18,74,10.5,2,7.1,79.7,None,41.8,Fail,Fail
+900,17,98,17.4,4,7.7,68.2,Master,22.2,Fail,Fail
+901,18,94,15,4,7.2,87.6,Bachelor,41.3,Fail,Fail
+902,17,81,11.2,3,7,80.4,Bachelor,29.2,Fail,Fail
+903,18,81,14.6,3,7.2,83.4,High School,50.1,Fail,Fail
+904,19,100,10.9,6,6.7,76.3,None,37.8,Fail,Fail
+905,18,78,17.3,5,6.9,77.1,Master,37,Fail,Fail
+906,18,100,17.2,6,5.5,82.3,Master,47.4,Fail,Fail
+907,16,81,15.6,7,8,70.7,Bachelor,38.6,Fail,Fail
+908,18,96,15.1,6,7.4,77.1,Bachelor,30.9,Fail,Fail
+909,18,87,19.3,6,6.6,73.1,Master,36.4,Fail,Fail
+910,19,96,14,5,8.7,72.9,High School,34.6,Fail,Fail
+911,17,85,10.5,4,7.3,63.1,Bachelor,19.7,Fail,Fail
+912,18,88,15.3,7,6.4,90.7,High School,39.9,Fail,Fail
+913,18,90,20.3,5,7.9,74.5,None,36.5,Fail,Fail
+914,19,80,11,4,7.5,89.3,High School,42.8,Fail,Fail
+915,17,97,12.9,5,7.5,88.6,High School,33.5,Fail,Fail
+916,18,85,15.2,4,6.9,69.7,Bachelor,43.2,Fail,Fail
+917,18,88,13.8,5,7.6,71.3,Master,35.2,Fail,Fail
+918,18,80,11.1,6,7,98,Bachelor,47.8,Fail,Fail
+919,17,64,17.4,6,7.6,94,High School,48.6,Fail,Fail
+920,18,88,21,4,5.7,79.7,High School,34.3,Fail,Fail
+921,18,100,14.6,5,6.9,82.1,Master,44.2,Fail,Fail
+922,17,98,11.3,7,8.6,75,None,35.3,Fail,Fail
+923,18,90,9.4,6,6.6,83.5,Master,34.9,Fail,Fail
+924,17,87,14.8,9,6.7,74.3,Bachelor,41.4,Fail,Fail
+925,18,90,17.3,7,6.8,63.7,None,43.2,Fail,Fail
+926,16,95,15.4,7,6.2,69.4,Bachelor,40.3,Fail,Fail
+927,17,78,14,3,5.4,80.2,Bachelor,45.9,Fail,Fail
+928,18,100,12.2,7,7,71,Bachelor,32.4,Fail,Fail
+929,19,97,10.7,5,7.3,79.5,Bachelor,28.5,Fail,Fail
+930,17,97,16.5,5,7.2,71.4,Master,46.7,Fail,Fail
+931,17,94,16.7,6,7.1,73.7,Bachelor,51.7,Fail,Fail
+932,19,90,9.4,7,7.2,86.8,Bachelor,53.6,Fail,Fail
+933,16,97,18.8,6,8,82,High School,38.9,Fail,Fail
+934,16,96,15.7,4,7,79.9,High School,31.9,Fail,Fail
+935,18,86,18.2,7,6.7,87,Bachelor,35.7,Fail,Fail
+936,17,84,10,5,7,83.8,High School,29.4,Fail,Fail
+937,17,91,9.9,6,7.7,91.6,High School,44.2,Fail,Fail
+938,18,100,13.6,5,8.3,76.3,Bachelor,49.8,Fail,Fail
+939,18,78,15.5,5,6.7,76.6,Bachelor,37.1,Fail,Fail
+940,17,75,19.4,7,7.3,69.6,Master,37.3,Fail,Fail
+941,16,92,16.1,4,7.5,76.6,Bachelor,48.1,Fail,Fail
+942,18,91,13.3,8,6.4,87.7,Master,40.5,Fail,Fail
+943,18,92,10.9,3,7.2,90.4,None,58.6,Fail,Fail
+944,17,92,17.7,5,6,87.7,Master,57.4,Fail,Fail
+945,19,88,11.1,6,5.8,65.6,Bachelor,32.2,Fail,Fail
+946,17,100,18.9,6,7.5,88.7,Bachelor,40.3,Fail,Fail
+947,16,74,13.1,5,6.9,65.3,None,37.6,Fail,Fail
+948,17,82,18.8,5,7.4,87.2,High School,40.7,Fail,Fail
+949,17,89,16,6,7.2,77.1,High School,30.6,Fail,Fail
+950,18,74,13.6,5,6.4,85.6,Bachelor,50.8,Fail,Fail
+951,17,88,12.4,8,7.2,69.3,High School,43.5,Fail,Fail
+952,18,100,13,7,6.2,89.4,None,45.4,Fail,Fail
+953,16,90,15.3,7,8.3,68.3,Bachelor,26,Fail,Fail
+954,19,92,14.2,4,6.1,74.7,Bachelor,28.8,Fail,Fail
+955,17,77,12.2,5,7,72,Bachelor,36.6,Fail,Fail
+956,18,84,13.5,5,6.4,66,Bachelor,29.8,Fail,Fail
+957,18,86,14.2,4,7.7,80.8,High School,37.8,Fail,Fail
+958,18,87,7.6,6,6.9,94.4,Bachelor,53.1,Fail,Fail
+959,18,100,15.4,5,6.8,98,Master,53.4,Fail,Fail
+960,18,96,11.1,6,7.9,80.8,Bachelor,50,Fail,Fail
+961,18,79,10.5,4,7.2,88.9,Master,36.4,Fail,Fail
+962,19,92,8.9,8,7.6,81.9,High School,38.3,Fail,Fail
+963,18,95,8.6,4,6.4,84,High School,46.7,Fail,Fail
+964,18,100,9.9,6,6.1,77.3,High School,41.8,Fail,Fail
+965,17,100,11.9,7,7.3,81.6,Bachelor,51.5,Fail,Fail
+966,19,80,19.9,5,6.9,84.3,Master,44.8,Fail,Fail
+967,17,82,12.4,7,7.7,75.4,Master,50.6,Fail,Fail
+968,19,77,14.5,4,7.1,79.4,Bachelor,43,Fail,Fail
+969,17,88,15.2,8,7.4,79.5,Bachelor,47.2,Fail,Fail
+970,16,95,14.4,6,5.9,86.6,Master,40.6,Fail,Fail
+971,18,100,13.8,5,8.7,71.5,High School,36.5,Fail,Fail
+972,17,89,10.4,5,7.1,79.6,High School,45.8,Fail,Fail
+973,18,87,18.4,7,7.8,95.3,None,58.3,Fail,Fail
+974,17,92,19.4,5,6.5,89.3,Bachelor,49.4,Fail,Fail
+975,17,82,9,4,7.4,90.8,None,43.7,Fail,Fail
+976,16,100,10.9,5,6.2,80.2,Bachelor,49.6,Fail,Fail
+977,17,74,13.2,4,7.6,82.6,Master,25.2,Fail,Fail
+978,16,92,11.1,8,6.9,88,High School,33.5,Fail,Fail
+979,16,100,15.5,5,7.2,92.5,High School,50.6,Fail,Fail
+980,18,90,11.8,7,7.8,64.4,Bachelor,33,Fail,Fail
+981,18,88,20.5,6,6.2,69.5,Bachelor,39.6,Fail,Fail
+982,18,86,17.6,4,6.7,90.5,High School,45,Fail,Fail
+983,17,88,14.6,5,7.6,77.8,High School,42.9,Fail,Fail
+984,17,100,17.1,7,8.9,74.6,High School,32.4,Fail,Fail
+985,17,68,17.3,5,7.1,70,Master,39,Fail,Fail
+986,17,100,12.3,7,7.7,75.6,Bachelor,45.1,Fail,Fail
+987,19,76,11.6,7,7.1,68.8,High School,43,Fail,Fail
+988,18,87,14.2,7,8.8,96.7,High School,61.6,C,Pass
+989,17,86,16.6,5,5.8,79.8,High School,41.4,Fail,Fail
+990,18,96,14.4,4,7.3,79.5,Bachelor,41.7,Fail,Fail
+991,18,74,9.3,5,5.9,84.7,High School,30.5,Fail,Fail
+992,16,95,11.6,6,5.2,87.7,Master,39.4,Fail,Fail
+993,17,100,13.8,6,7.4,87.6,High School,42.2,Fail,Fail
+994,17,76,13.8,2,7.3,88.6,High School,50.6,Fail,Fail
+995,17,92,19.9,5,7,75,Master,33.7,Fail,Fail
+996,17,83,9.8,6,7.1,77.6,Master,44,Fail,Fail
+997,19,94,15.5,5,9.7,86.2,High School,43.1,Fail,Fail
+998,18,90,18.5,7,7,75.8,Master,37,Fail,Fail
+999,17,84,20.8,6,7.6,80,Bachelor,41.9,Fail,Fail
+1000,18,95,12.8,7,6.7,83.2,Master,38.6,Fail,Fail
+1001,19,100,15.5,5,7.4,86.3,Bachelor,40,Fail,Fail
+1002,18,88,15.7,7,7,65.8,Bachelor,21.6,Fail,Fail
+1003,18,97,14.6,8,6.9,85.7,None,41,Fail,Fail
+1004,17,77,13.7,7,8.7,78.1,High School,35.5,Fail,Fail
+1005,18,80,15.3,4,8.1,85.7,Bachelor,38.7,Fail,Fail
+1006,18,95,6.4,5,7.3,86.2,Bachelor,45.3,Fail,Fail
+1007,18,100,16,5,5.4,92.9,High School,50.4,Fail,Fail
+1008,18,94,14.4,6,6.9,90.8,High School,46.5,Fail,Fail
+1009,18,87,13.3,7,9.4,90.8,High School,51.9,Fail,Fail
+1010,17,90,20.1,4,7,91.5,Bachelor,49.3,Fail,Fail
+1011,19,77,12,6,8.1,82.3,Bachelor,38.5,Fail,Fail
+1012,18,96,12.8,2,8.4,80.3,Bachelor,36.9,Fail,Fail
+1013,19,99,20,8,7.4,87,High School,45.9,Fail,Fail
+1014,17,85,11.5,5,6.5,85.9,Bachelor,46.2,Fail,Fail
+1015,19,85,12.3,6,5.3,77.5,None,48.2,Fail,Fail
+1016,18,93,13.6,5,7.7,83.2,Bachelor,49.7,Fail,Fail
+1017,17,86,16.5,7,6.5,79.7,Bachelor,36,Fail,Fail
+1018,17,89,14.6,1,7.3,73.2,Master,35.9,Fail,Fail
+1019,17,100,10.1,5,6.2,90.3,Master,49.1,Fail,Fail
+1020,18,88,12.4,5,7,80.4,Bachelor,47.4,Fail,Fail
+1021,18,86,12.2,5,7.2,96.4,Master,53.6,Fail,Fail
+1022,17,84,13.8,8,7.4,67,Bachelor,33.5,Fail,Fail
+1023,17,97,15.3,4,6.3,75.5,Master,29.2,Fail,Fail
+1024,19,88,15.3,7,8.2,80.3,High School,33.2,Fail,Fail
+1025,19,84,8.7,6,6.7,89.1,High School,45.4,Fail,Fail
+1026,18,100,17.2,7,5.9,83.2,High School,44,Fail,Fail
+1027,18,100,14.8,4,7.1,82.5,Master,33.5,Fail,Fail
+1028,18,84,18.2,4,7.2,71,Bachelor,36.1,Fail,Fail
+1029,18,71,15.3,7,7.3,70.7,High School,39.8,Fail,Fail
+1030,17,100,17.3,6,8.3,82.6,High School,33.5,Fail,Fail
+1031,17,83,15.4,3,7,69.1,None,42.5,Fail,Fail
+1032,16,98,18,5,7.1,75.7,Master,35.7,Fail,Fail
+1033,18,70,15.6,6,6.3,84,Bachelor,50,Fail,Fail
+1034,18,99,13.7,7,7.9,72.1,Bachelor,32.9,Fail,Fail
+1035,17,78,20.8,4,7.3,92.8,Bachelor,38.4,Fail,Fail
+1036,19,97,16.7,1,6.9,89.8,Bachelor,41.2,Fail,Fail
+1037,17,90,15.7,6,5.7,67.4,None,33.5,Fail,Fail
+1038,16,80,10.2,4,8.4,72.5,High School,33.4,Fail,Fail
+1039,18,86,10.1,2,6.2,61.7,Bachelor,29.6,Fail,Fail
+1040,18,97,14.9,1,6.7,73.7,Bachelor,39.4,Fail,Fail
+1041,19,91,14.4,7,7.5,86.1,Bachelor,41.6,Fail,Fail
+1042,17,96,12.2,6,6.2,76.7,Bachelor,37.9,Fail,Fail
+1043,18,100,14.4,5,6,83.7,Bachelor,29.7,Fail,Fail
+1044,17,74,18.8,8,5.5,67.8,High School,36.9,Fail,Fail
+1045,17,100,16.1,6,7.8,86.4,Bachelor,42.6,Fail,Fail
+1046,18,91,10.6,8,6.8,75.6,High School,49.1,Fail,Fail
+1047,18,81,13.7,3,9.5,80.1,High School,33.2,Fail,Fail
+1048,16,77,11.6,5,6.4,79.3,High School,26.4,Fail,Fail
+1049,19,88,12.8,3,6.5,69.8,Master,39.3,Fail,Fail
+1050,19,99,12.8,5,6.7,70.8,Bachelor,38.3,Fail,Fail
+1051,17,89,12.6,5,7.4,87.7,Bachelor,36.2,Fail,Fail
+1052,18,100,10.2,6,6.8,83.2,Master,30.6,Fail,Fail
+1053,18,75,13.6,6,7.7,88.4,Bachelor,54.1,Fail,Fail
+1054,18,90,12.3,6,6.4,82.6,Bachelor,50.8,Fail,Fail
+1055,17,77,5.2,7,6.1,81.1,Bachelor,22.1,Fail,Fail
+1056,17,94,20.2,9,5.8,66.2,Bachelor,30.9,Fail,Fail
+1057,17,99,17.3,5,5.4,77.8,Bachelor,50.7,Fail,Fail
+1058,18,86,12.9,4,6.8,79.8,Bachelor,36.2,Fail,Fail
+1059,18,64,14.1,6,7,95.6,Master,42.8,Fail,Fail
+1060,17,92,10.5,4,6.7,85.5,Master,40.1,Fail,Fail
+1061,18,94,19.1,8,8.2,92.3,High School,38.1,Fail,Fail
+1062,15,94,19.7,5,8.2,84.8,High School,30.6,Fail,Fail
+1063,18,100,14.5,5,6.9,74.3,Bachelor,44.9,Fail,Fail
+1064,16,79,17.1,5,5.8,80.9,Bachelor,27.1,Fail,Fail
+1065,17,97,14.5,7,6.7,81.9,High School,42.7,Fail,Fail
+1066,17,100,10,5,6.7,72.5,Master,42.7,Fail,Fail
+1067,16,72,12.8,5,6.7,76.9,High School,27.7,Fail,Fail
+1068,18,93,14.4,8,6.6,78.4,None,32.8,Fail,Fail
+1069,17,85,12.6,4,6.7,92.8,Master,53.8,Fail,Fail
+1070,18,89,13.3,6,6.9,63.4,Master,36.1,Fail,Fail
+1071,17,93,13.7,6,6.7,89.6,High School,39.9,Fail,Fail
+1072,18,85,13.8,3,7.4,72.5,High School,44.7,Fail,Fail
+1073,18,83,14.2,6,7.5,69,Bachelor,43.3,Fail,Fail
+1074,16,90,10.8,4,6.5,89.4,High School,45.7,Fail,Fail
+1075,18,79,11.8,7,8.2,85.9,Bachelor,36,Fail,Fail
+1076,17,79,10.1,4,6.4,90,Bachelor,40.9,Fail,Fail
+1077,16,97,16.9,7,5.9,86.4,High School,45,Fail,Fail
+1078,17,79,7.7,7,7.5,96.5,High School,45.5,Fail,Fail
+1079,19,97,17.5,7,6.5,84.5,Master,48.8,Fail,Fail
+1080,18,95,18.2,6,7.5,78.7,High School,29,Fail,Fail
+1081,17,73,13.1,5,5.3,82.7,High School,30,Fail,Fail
+1082,17,83,6.2,5,8.3,89.9,Bachelor,45.1,Fail,Fail
+1083,17,100,12.9,8,7.7,73.8,None,34,Fail,Fail
+1084,19,80,13.8,4,6,74.8,Bachelor,32.7,Fail,Fail
+1085,18,85,11,4,6,77.5,High School,25.9,Fail,Fail
+1086,18,95,12.5,6,8.5,63.2,Bachelor,32.7,Fail,Fail
+1087,18,98,18.6,4,6.6,81.1,None,40.3,Fail,Fail
+1088,18,87,16,4,6.5,64.9,Master,37.6,Fail,Fail
+1089,17,84,11.2,3,5.4,80.4,Bachelor,40,Fail,Fail
+1090,17,100,9.2,5,6.9,86.9,Bachelor,42,Fail,Fail
+1091,17,100,13,5,7,76.2,Bachelor,46.6,Fail,Fail
+1092,17,100,13.4,6,7.8,93.4,High School,37,Fail,Fail
+1093,18,91,15.5,7,6.1,68.3,Bachelor,38.4,Fail,Fail
+1094,18,82,12.4,6,6,89.5,Master,32.1,Fail,Fail
+1095,18,82,15.5,5,7.6,85.4,None,36.3,Fail,Fail
+1096,17,95,19.8,5,8,66.3,High School,25.7,Fail,Fail
+1097,18,94,16.4,6,5.9,98,High School,53.6,Fail,Fail
+1098,16,100,13.9,7,8.1,79.5,Bachelor,39.6,Fail,Fail
+1099,18,97,13.5,6,7.2,73,Master,36.8,Fail,Fail
+1100,18,75,12.9,5,8.1,68.7,Master,26.7,Fail,Fail
+1101,18,100,17.5,4,7.1,78.2,High School,37.3,Fail,Fail
+1102,15,80,12.1,3,5.2,79,High School,33.4,Fail,Fail
+1103,19,86,14.1,6,7.1,80.8,Bachelor,42.8,Fail,Fail
+1104,17,93,14.2,6,8,77.6,Bachelor,32,Fail,Fail
+1105,18,100,12.5,6,6.5,85.1,Master,51.6,Fail,Fail
+1106,17,100,9.9,5,6.9,76.9,Bachelor,26.7,Fail,Fail
+1107,18,96,15,8,7.1,64.5,Master,27.5,Fail,Fail
+1108,17,88,13.8,5,4.9,78.8,Bachelor,50.8,Fail,Fail
+1109,17,95,15.5,7,8.5,61.1,Master,28.7,Fail,Fail
+1110,19,99,12.4,5,6.5,82.8,Bachelor,32,Fail,Fail
+1111,17,87,17.7,5,7.6,72.2,Master,38,Fail,Fail
+1112,18,100,11.4,6,7.1,81.3,High School,37.3,Fail,Fail
+1113,18,92,19.1,6,8.2,90.5,Bachelor,39.2,Fail,Fail
+1114,18,95,8.8,6,7.5,72.4,High School,28.7,Fail,Fail
+1115,18,97,15.3,6,7,88.5,Bachelor,63.3,C,Pass
+1116,18,94,15.4,5,6.5,76.5,Bachelor,36.6,Fail,Fail
+1117,19,98,11.6,9,7.8,94,High School,33,Fail,Fail
+1118,17,84,15.3,7,5.7,77.1,None,48.8,Fail,Fail
+1119,18,84,17.8,7,7.7,73.3,High School,41.3,Fail,Fail
+1120,18,79,7.3,6,6.3,85.5,Master,36.3,Fail,Fail
+1121,18,94,15.5,7,8.2,76.5,None,32.1,Fail,Fail
+1122,18,98,6.5,6,7.3,73.3,High School,41.4,Fail,Fail
+1123,18,95,11.1,6,7.7,76.2,Bachelor,36.5,Fail,Fail
+1124,17,100,18.9,5,7.3,79.6,High School,26.7,Fail,Fail
+1125,19,90,12.3,5,5.8,90.7,High School,57,Fail,Fail
+1126,17,97,10.5,1,6.5,64.5,Bachelor,29.6,Fail,Fail
+1127,18,79,13.4,6,7.7,80.2,None,50.2,Fail,Fail
+1128,17,86,20.2,5,7.3,85,High School,51.3,Fail,Fail
+1129,17,97,8.5,8,8.1,81.5,Bachelor,33.6,Fail,Fail
+1130,18,98,10.8,6,7.5,90.5,Bachelor,51.9,Fail,Fail
+1131,18,87,18.5,4,6.4,79.4,Master,35.1,Fail,Fail
+1132,18,89,19.6,5,6.6,78.5,High School,26.3,Fail,Fail
+1133,19,75,13.7,4,7.3,84.7,Bachelor,38.6,Fail,Fail
+1134,18,86,10.3,6,5.3,80.8,Bachelor,42.6,Fail,Fail
+1135,17,99,20.3,6,8.5,76.9,Bachelor,35.9,Fail,Fail
+1136,18,96,18.8,7,7.6,84.1,None,40.1,Fail,Fail
+1137,18,95,16,4,8.2,74.8,Master,45.8,Fail,Fail
+1138,17,90,11.6,6,5.9,75.1,High School,38.2,Fail,Fail
+1139,18,90,13.9,3,8.2,75.8,Bachelor,32.1,Fail,Fail
+1140,18,83,13.5,7,9,90.8,Bachelor,49.7,Fail,Fail
+1141,17,97,15,6,6.1,54.2,Bachelor,29.8,Fail,Fail
+1142,19,94,18.4,6,7.8,83.2,Bachelor,24.1,Fail,Fail
+1143,17,95,16.6,6,7.2,80.3,Bachelor,43.3,Fail,Fail
+1144,18,85,10.8,6,6,66.6,Bachelor,36.2,Fail,Fail
+1145,17,68,18.1,8,7.6,82.5,None,40.9,Fail,Fail
+1146,18,100,14.9,5,7.9,83.8,High School,48.2,Fail,Fail
+1147,17,85,16.1,6,6.7,84.7,None,37.2,Fail,Fail
+1148,16,81,18.4,4,8.1,58.8,Bachelor,32.7,Fail,Fail
+1149,19,97,10.7,4,5.9,90.9,Bachelor,33.6,Fail,Fail
+1150,17,86,13.9,6,6,74.1,Master,39.9,Fail,Fail
+1151,17,100,12.4,7,7.3,85.5,Bachelor,56.3,Fail,Fail
+1152,16,96,9.3,5,7.2,85.9,Bachelor,35.5,Fail,Fail
+1153,17,97,15,5,6.6,73,Bachelor,31.6,Fail,Fail
+1154,16,76,21.5,5,7.8,85.3,Bachelor,37.4,Fail,Fail
+1155,19,100,8.5,5,7.6,76.9,None,39.4,Fail,Fail
+1156,18,93,13.9,6,7.9,63.4,Master,25.1,Fail,Fail
+1157,17,86,15.9,3,7.1,89.3,High School,46.9,Fail,Fail
+1158,19,91,14.4,7,7.7,73.8,High School,43.2,Fail,Fail
+1159,18,72,13.7,5,6.8,73.2,Bachelor,40,Fail,Fail
+1160,17,94,10.1,7,8.8,76.8,High School,26.2,Fail,Fail
+1161,16,80,14.7,4,6.5,82.2,Bachelor,47.5,Fail,Fail
+1162,19,76,11.7,7,8.9,79.5,High School,46,Fail,Fail
+1163,16,75,7.4,7,7.2,84.4,Bachelor,47,Fail,Fail
+1164,16,100,17.6,6,6.1,69.3,High School,38,Fail,Fail
+1165,18,84,16.9,4,8.3,74.1,Bachelor,38.8,Fail,Fail
+1166,19,100,14.2,6,7.3,79.1,Bachelor,47,Fail,Fail
+1167,19,85,14.7,4,7.9,95.2,Bachelor,60.1,C,Pass
+1168,18,73,17.2,5,8.2,79.1,None,32.6,Fail,Fail
+1169,18,79,14.7,7,7.5,88.7,Master,51.2,Fail,Fail
+1170,18,100,16.7,7,6.7,80.3,Bachelor,39.8,Fail,Fail
+1171,18,88,13.1,6,8,76.1,High School,37.2,Fail,Fail
+1172,18,85,17.9,4,7.2,78,Master,28.2,Fail,Fail
+1173,18,92,15,6,7.7,78.7,None,37.5,Fail,Fail
+1174,17,95,14.6,6,5.5,84.8,Master,35.1,Fail,Fail
+1175,17,100,10.2,2,7.6,91,High School,41.5,Fail,Fail
+1176,17,100,14.9,7,6.7,82.9,None,33.8,Fail,Fail
+1177,16,86,11.5,5,8.5,89.5,High School,40.9,Fail,Fail
+1178,17,77,12.1,7,7.7,72.3,Master,33.3,Fail,Fail
+1179,17,86,11.6,4,7.4,76.7,None,38.8,Fail,Fail
+1180,17,93,10.8,1,7.6,74.2,High School,25.7,Fail,Fail
+1181,18,80,20.4,6,6.4,82.5,None,30.9,Fail,Fail
+1182,19,80,18,6,8.5,77.1,Bachelor,41.2,Fail,Fail
+1183,18,93,19.8,3,8.8,85.8,None,37.3,Fail,Fail
+1184,16,90,10.3,4,7.5,72.6,High School,43.9,Fail,Fail
+1185,17,90,14.2,10,8.5,80.3,None,41.9,Fail,Fail
+1186,18,82,10.1,5,6.7,85.5,High School,46.1,Fail,Fail
+1187,17,88,11.9,7,6.6,63.5,Master,42.2,Fail,Fail
+1188,17,81,11.2,5,7.2,97,Bachelor,45,Fail,Fail
+1189,18,99,17.7,2,7.5,77.7,Bachelor,35.1,Fail,Fail
+1190,17,100,12.8,5,6.9,63.8,High School,38.8,Fail,Fail
+1191,18,72,17.2,5,7.6,81.3,Master,43.8,Fail,Fail
+1192,16,81,15.8,5,7.4,80.3,High School,38.6,Fail,Fail
+1193,17,75,20.9,5,6.4,79.3,Bachelor,49.2,Fail,Fail
+1194,18,83,9.6,6,7.6,87.9,High School,41.6,Fail,Fail
+1195,16,89,17.8,5,7.9,86,None,43,Fail,Fail
+1196,18,76,17.4,4,7.3,82.4,High School,40.9,Fail,Fail
+1197,17,81,11.1,6,8.1,83.6,High School,34.7,Fail,Fail
+1198,18,80,17,3,6.2,79.2,High School,39.8,Fail,Fail
+1199,18,92,15,2,7.6,94.2,Bachelor,56.1,Fail,Fail
+1200,19,91,13.3,7,6.3,68.2,High School,37.6,Fail,Fail
